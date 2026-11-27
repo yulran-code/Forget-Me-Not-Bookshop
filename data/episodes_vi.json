@@ -1,0 +1,1881 @@
+[
+  {
+    "arc": "EP 1. Chủ nhân của chiếc đồng hồ bỏ túi đã ngừng chạy",
+    "title": "Tập 1 《Chiếc đồng hồ dừng lại lúc 11 giờ 59 phút》",
+    "levels": {
+      "beginner": {
+        "sentences": [
+          {
+            "ko": "밤 11시 50분이에요.",
+            "ruby": "밤|bam 11시|yeolhansi 50분이에요.|osipbun-ieyo.",
+            "trans": "Bây giờ là 11 giờ 50 phút đêm.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "비가 와요.",
+            "ruby": "비가|biga 와요.|wayo.",
+            "trans": "Trời đang mưa.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연은 잡지사 에디터예요.",
+            "ruby": "서연은|Seoyeon-eun 잡지사|japjisa 에디터예요.|editayeo-yo.",
+            "trans": "Seoyeon là biên tập viên của một tạp chí.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "오늘 일이 늦게 끝났어요.",
+            "ruby": "오늘|oneul 일이|iri 늦게|neutge 끝났어요.|kkeutnasseoyo.",
+            "trans": "Hôm nay công việc kết thúc muộn.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 우산이 없어요.",
+            "ruby": "그런데|geurendeo 우산이|usani 없어요.|eopseoyo.",
+            "trans": "Thế nhưng cô ấy lại không có ô.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연의 가방에는 할머니의 시계가 있어요.",
+            "ruby": "서연의|Seoyeon-ui 가방에는|gabang-eneun 할머니의|halmeoni-ui 시계가|sigyega 있어요.|isseoyo.",
+            "trans": "Trong túi của Seoyeon có chiếc đồng hồ của bà.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "오늘 낮에 시계 가게에 갔어요.",
+            "ruby": "오늘|oneul 낮에|naje 시계|sigye 가게에|gage-e 갔어요.|gasseoyo.",
+            "trans": "Trưa nay cô ấy đã đến tiệm đồng hồ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "가게 할아버지가 말했어요.",
+            "ruby": "가게|gage 할아버지가|harabeojiga 말했어요.|malhaesseoyo.",
+            "trans": "Ông chủ tiệm đã nói:",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"고장 난 곳이 없어요.",
+            "ruby": "\"고장|gojang 난|nan 곳이|gosi 없어요.|eopseoyo.",
+            "trans": "\"Không có chỗ nào bị hỏng cả.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 안 움직여요.",
+            "ruby": "그런데|geurendeo 안|an 움직여요.|umjigyeoyo.",
+            "trans": "Nhưng nó không chạy.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "뒤도 안 열려요.\"",
+            "ruby": "뒤도|dwido 안|an 열려요.\"|yeollyeoyo.",
+            "trans": "Nắp sau cũng không mở được.\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연은 골목으로 뛰어가요.",
+            "ruby": "서연은|Seoyeon-eun 골목으로|golmogeuro 뛰어가요.|ttwieogayo.",
+            "trans": "Seoyeon chạy vào trong ngõ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "매일 지나가는 골목이에요.",
+            "ruby": "매일|maeil 지나가는|jinaganeun 골목이에요.|golmogieyo.",
+            "trans": "Đó là con ngõ cô đi qua mỗi ngày.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 골목 끝에 작은 책방이 있어요.",
+            "ruby": "그런데|geurendeo 골목|golmok 끝에|kkeute 작은|jageun 책방이|chaekbang-i 있어요.|isseoyo.",
+            "trans": "Thế nhưng ở cuối ngõ lại có một hiệu sách nhỏ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "처음 보는 책방이에요.",
+            "ruby": "처음|cheoeum 보는|boneun 책방이에요.|chaekbang-ieyo.",
+            "trans": "Đây là hiệu sách lần đầu tiên cô nhìn thấy.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이름은 〈물망서림〉이에요.",
+            "ruby": "이름은|ireumeun 〈물망서림〉이에요.|Mulmangseorim-ieyo.",
+            "trans": "Tên hiệu sách là 〈Mulmangseorim〉.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "'서림'은 '책방'의 옛날 말이에요.",
+            "ruby": "'서림'은|seorim-eun '책방'의|chaekbang-ui 옛날|yennal 말이에요.|marieyo.",
+            "trans": "'Seorim' là từ cổ có nghĩa là 'hiệu sách'.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "딸랑.",
+            "ruby": "딸랑.|ttallang.",
+            "trans": "Keng keng.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연이 문을 열어요.",
+            "ruby": "서연이|Seoyeoni 문을|muneul 열어요.|yeoleoyo.",
+            "trans": "Seoyeon mở cửa.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"실례합니다.",
+            "ruby": "\"실례합니다.|sillyehamnida.",
+            "trans": "\"Xin lỗi.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "잠깐 들어가도 돼요?\"",
+            "ruby": "잠깐|jamkkan 들어가도|deureogado 돼요?\"|dwaeyo.",
+            "trans": "Tôi có thể vào trú một chút được không?\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "안경을 쓴 남자가 책을 읽고 있어요.",
+            "ruby": "안경을|angyeong-eul 쓴|sseun 남자가|namjaga 책을|chaegeul 읽고|ilkgo 있어요.|isseoyo.",
+            "trans": "Một người đàn ông đeo kính đang đọc sách.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "남자가 책을 덮고 웃어요.",
+            "ruby": "남자가|namjaga 책을|chaegeul 덮고|deopgo 웃어요.|useoyo.",
+            "trans": "Người đàn ông gấp sách lại và mỉm cười.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"네, 들어오세요.",
+            "ruby": "\"네,|ne 들어오세요.|deureo-oseyo.",
+            "trans": "\"Vâng, mời vào.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 시간에 손님은 오랜만이에요.\"",
+            "ruby": "이|i 시간에|sigane 손님은|sonnimeun 오랜만이에요.\"|oraenman-ieyo.",
+            "trans": "Đã lâu rồi mới có khách ghé thăm vào giờ này.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "남자의 이름은 도윤이에요.",
+            "ruby": "남자의|namjaui 이름은|ireumeun 도윤이에요.|Doyun-ieyo.",
+            "trans": "Người đàn ông tên là Doyun.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 책방의 주인이에요.",
+            "ruby": "이|i 책방의|chaekbang-ui 주인이에요.|juin-ieyo.",
+            "trans": "Anh ấy là chủ của hiệu sách này.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 수건과 따뜻한 유자차를 줘요.",
+            "ruby": "도윤이|Doyuni 수건과|sugeongwa 따뜻한|ttatteut-han 유자차를|yujachareul 줘요.|jwoyo.",
+            "trans": "Doyun đưa cho cô chiếc khăn và ly trà citron ấm áp.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"고마워요.",
+            "ruby": "\"고마워요.|gomaweoyo.",
+            "trans": "\"Cảm ơn anh.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "늦게까지 문을 열어요?\"",
+            "ruby": "늦게까지|neutgekkaji 문을|muneul 열어요?\"|yeoleoyo.",
+            "trans": "Hiệu sách mở cửa đến muộn thế này sao?\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"네.",
+            "ruby": "\"네.|ne.",
+            "trans": "\"Vâng.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "저는 밤에 잠을 잘 못 자요.\"",
+            "ruby": "저는|jeoneun 밤에|bame 잠을|jameul 잘|jal 못|mot 자요.\"|jayo.",
+            "trans": "Ban đêm tôi khó ngủ lắm.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤의 눈이 조금 피곤해 보여요.",
+            "ruby": "도윤의|Doyun-ui 눈이|nuni 조금|jogeum 피곤해|pigonhae 보여요.|boyeoyo.",
+            "trans": "Ánh mắt của Doyun trông có vẻ hơi mệt mỏi.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연이 가방을 열어요.",
+            "ruby": "서연이|Seoyeoni 가방을|gabang-eul 열어요.|yeoleoyo.",
+            "trans": "Seoyeon mở chiếc túi ra.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그때 시계가 바닥에 떨어져요.",
+            "ruby": "그때|geuttae 시계가|sigyega 바닥에|badage 떨어져요.|tteoreojyeoyo.",
+            "trans": "Lúc đó chiếc đồng hồ rơi xuống sàn.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 시계를 주워요.",
+            "ruby": "도윤이|Doyuni 시계를|sigyereul 주워요.|juweoyo.",
+            "trans": "Doyun nhặt chiếc đồng hồ lên.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "시계는 11시 59분에 멈춰 있어요.",
+            "ruby": "시계는|sigyeneun 11시|yeolhansi 59분에|osibgubune 멈춰|meomchweo 있어요.|isseoyo.",
+            "trans": "Chiếc đồng hồ dừng lại ở 11 giờ 59 phút.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"할머니 시계예요.",
+            "ruby": "\"할머니|halmeoni 시계예요.|sigyeyeyo.",
+            "trans": "\"Đây là đồng hồ của bà tôi.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "할머니는 석 달 전에 돌아가셨어요.",
+            "ruby": "할머니는|halmeonineun 석|seok 달|dal 전에|jeone 돌아가셨어요.|doragasyeosseoyo.",
+            "trans": "Bà tôi đã qua đời 3 tháng trước.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 시계는 한 번도 안 움직였어요.\"",
+            "ruby": "이|i 시계는|sigyeneun 한|han 번도|beondo 안|an 움직였어요.\"|umjigyeosseoyo.",
+            "trans": "Chiếc đồng hồ này chưa bao giờ chạy cả.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 시계를 돌려줘요.",
+            "ruby": "도윤이|Doyuni 시계를|sigyereul 돌려줘요.|dollyeojwoyo.",
+            "trans": "Doyun trả lại chiếc đồng hồ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"11시 59분… 12시 1분 전이네요.\"",
+            "ruby": "\"11시|yeolhansi 59분…|osibgubun 12시|yeoldusi 1분|ilbun 전이네요.\"|jeon-ineyo.",
+            "trans": "\"11 giờ 59 phút… Còn 1 phút nữa là 12 giờ đúng nhỉ.\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "땡, 땡, 땡… 책방의 큰 시계가 울려요.",
+            "ruby": "땡,|ttaeng 땡,|ttaeng 땡…|ttaeng 책방의|chaekbang-ui 큰|keun 시계가|sigyega 울려요.|ullyeoyo.",
+            "trans": "Boong, boong, boong… Chiếc đồng hồ lớn trong hiệu sách điểm chuông.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "12시예요.",
+            "ruby": "12시예요.|yeoldusieyo.",
+            "trans": "Đó là 12 giờ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그때 서연의 손에서 시계가 빛나요.",
+            "ruby": "그때|geuttae 서연의|Seoyeon-ui 손에서|son-eseo 시계가|sigyega 빛나요.|bitnayo.",
+            "trans": "Lúc ấy, chiếc đồng hồ trên tay Seoyeon tỏa sáng.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "똑딱, 똑딱.",
+            "ruby": "똑딱,|ttokttak 똑딱.|ttokttak.",
+            "trans": "Tích tắc, tích tắc.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"어?",
+            "ruby": "\"어?|eo",
+            "trans": "\"Ơ?",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "시계가 움직여요!\"",
+            "ruby": "시계가|sigyega 움직여요!\"|umjigyeoyo",
+            "trans": "Đồng hồ đang chạy này!\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 시계를 만져요.",
+            "ruby": "도윤이|Doyuni 시계를|sigyereul 만져요.|manjyeoyo.",
+            "trans": "Doyun chạm vào chiếc đồng hồ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤의 눈앞에 다른 곳이 보여요.",
+            "ruby": "도윤의|Doyun-ui 눈앞에|nunape 다른|dareun 곳이|gosi 보여요.|boyeoyo.",
+            "trans": "Trước mắt Doyun hiện ra một nơi hoàn toàn khác.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "비 오는 기차역이에요.",
+            "ruby": "비|bi 오는|oneun 기차역이에요.|gichayeogieyo.",
+            "trans": "Đó là một nhà ga tàu hỏa dưới mưa.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "'경성역'이에요.",
+            "ruby": "'경성역'이에요.|Gyeongseong-yeogieyo.",
+            "trans": "Đó là 'Ga Gyeongseong'.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "100년 전의 서울역이에요.",
+            "ruby": "100년|baengnyeon 전의|jeon-ui 서울역이에요.|Seoul-yeogieyo.",
+            "trans": "Đó là tên của Ga Seoul 100 năm trước.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "한 여자가 이 시계를 들고 있어요.",
+            "ruby": "한|han 여자가|yeojaga 이|i 시계를|sigyereul 들고|deulgo 있어요.|isseoyo.",
+            "trans": "Một người phụ nữ đang cầm chiếc đồng hồ này.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "누군가를 기다리고 있어요.",
+            "ruby": "누군가를|nugungareul 기다리고|gidarigo 있어요.|isseoyo.",
+            "trans": "Cô ấy đang chờ đợi ai đó.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "여자의 얼굴은 안 보여요.",
+            "ruby": "여자의|yeojaui 얼굴은|eolagureun 안|an 보여요.|boyeoyo.",
+            "trans": "Không nhìn thấy mặt của người phụ nữ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 도윤은 그 여자를 알아요.",
+            "ruby": "그런데|geurendeo 도윤은|Doyun-eun 그|geu 여자를|yeojareul 알아요.|arayo.",
+            "trans": "Thế nhưng Doyun lại biết người phụ nữ đó.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "꿈에서 자주 본 여자예요.",
+            "ruby": "꿈에서|kkumeseo 자주|jaju 본|bon 여자예요.|yeojayeyo.",
+            "trans": "Đó là người phụ nữ anh ấy thường thấy trong giấc mơ.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 눈을 떠요.",
+            "ruby": "도윤이|Doyuni 눈을|nuneul 떠요.|tteoyo.",
+            "trans": "Doyun mở mắt ra.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "얼굴이 하얘요.",
+            "ruby": "얼굴이|eolguri 하얘요.|hayaeyo.",
+            "trans": "Gương mặt anh tái bạch.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연이 도윤을 봐요.",
+            "ruby": "서연이|Seoyeoni 도윤을|Doyuneul 봐요.|bwayo.",
+            "trans": "Seoyeon nhìn Doyun.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "처음 만난 사람이에요.",
+            "ruby": "처음|cheoeum 만난|mannan 사람이에요.|saram-ieyo.",
+            "trans": "Đây là người cô gặp lần đầu tiên.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 처음이 아닌 것 같아요.",
+            "ruby": "그런데|geurendeo 처음이|cheoeumi 아닌|anin 것|geot 같아요.|gataeyo.",
+            "trans": "Nhưng hình như đây không phải là lần đầu tiên.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"저기요… 우리 전에 만난 적 있어요?\"",
+            "ruby": "\"저기요…|jeogiyo 우리|uri 전에|jeone 만난|mannan 적|jeok 있어요?\"|isseoyo.",
+            "trans": "\"Này anh… Trước đây chúng ta từng gặp nhau chưa?\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 아무 말도 못 해요.",
+            "ruby": "도윤은|Doyun-eun 아무|amu 말도|maldo 못|mot 해요.|haeyo.",
+            "trans": "Doyun không thể nói được lời nào.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그때 딸깍.",
+            "ruby": "그때|geuttae 딸깍.|ttalgkak.",
+            "trans": "Lúc đó, một tiếng tách vang lên.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "시계 뒤가 열려요.",
+            "ruby": "시계|sigye 뒤가|dwiga 열려요.|yeollyeoyo.",
+            "trans": "Nắp sau của chiếc đồng hồ bật mở.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "안에 작은 글자가 있어요.",
+            "ruby": "안에|ane 작은|jageun 글자가|geuljaga 있어요.|isseoyo.",
+            "trans": "Bên trong có chữ viết nhỏ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"자정에 다시 만나요.",
+            "ruby": "\"자정에|jajeong-e 다시|dasi 만나요.|mannayo.",
+            "trans": "\"Hẹn gặp lại vào lúc nửa đêm.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "1925.\"",
+            "ruby": "1925.\"|cheon-gubaek-isib-obyeon.",
+            "trans": "1925.\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          }
+        ],
+        "vocabDict": {
+          "에디터": {
+            "word": "에디터",
+            "pron": "editeo",
+            "pos": "Danh từ",
+            "meaning": "Biên tập viên",
+            "example": "서연은 잡지사 에디터예요.",
+            "exampleTrans": "Seoyeon là biên tập viên tạp chí."
+          },
+          "골목": {
+            "word": "골목",
+            "pron": "golmok",
+            "pos": "Danh từ",
+            "meaning": "Ngõ, hẻm",
+            "example": "골목 끝에 작은 책방이 있어요.",
+            "exampleTrans": "Ở cuối ngõ có một hiệu sách nhỏ."
+          },
+          "책방": {
+            "word": "책방",
+            "pron": "chaekbang",
+            "pos": "Danh từ",
+            "meaning": "Hiệu sách, tiệm sách",
+            "example": "이 책방의 주인이에요.",
+            "exampleTrans": "Tôi là chủ của hiệu sách này."
+          },
+          "유자차": {
+            "word": "유자차",
+            "pron": "yujacha",
+            "pos": "Danh từ",
+            "meaning": "Trà citron (trà mứt chanh vàng)",
+            "example": "따뜻한 유자차를 마셔요.",
+            "exampleTrans": "Uống trà citron ấm áp."
+          },
+          "돌아가셨어요": {
+            "word": "돌아가시다",
+            "pron": "doragasida",
+            "pos": "Động từ",
+            "meaning": "Qua đời, mất (kính ngữ của 죽다)",
+            "example": "할머니는 석 달 전에 돌아가셨어요.",
+            "exampleTrans": "Bà tôi đã qua đời 3 tháng trước."
+          },
+          "경성역": {
+            "word": "경성역",
+            "pron": "Gyeongseong-yeok",
+            "pos": "Danh từ riêng",
+            "meaning": "Ga Gyeongseong (tên cũ của Ga Seoul)",
+            "example": "경성역은 100년 전의 서울역이에요.",
+            "exampleTrans": "Ga Gyeongseong là Ga Seoul 100 năm trước."
+          }
+        },
+        "expressions": [
+          {
+            "ko": "-아/어도 돼요?",
+            "pron": "-a/eodeo dwaeyo?",
+            "meaning": "Dùng để xin phép làm một hành động nào đó ('Có thể... được không?')",
+            "examples": [
+              {
+                "ko": "잠깐 들어가도 돼요?",
+                "trans": "Tôi có thể vào trong một chút được không?"
+              },
+              {
+                "ko": "여기 앉아도 돼요?",
+                "trans": "Tôi ngồi ở đây có được không?"
+              }
+            ]
+          },
+          {
+            "ko": "-(으)ㄴ 적이 있다/없다",
+            "pron": "-(eu)n jeogi itda/eoptda",
+            "meaning": "Diễn tả kinh nghiệm quá khứ ('Đã từng / Chưa từng làm gì')",
+            "examples": [
+              {
+                "ko": "우리 전에 만난 적 있어요?",
+                "trans": "Trước đây chúng ta từng gặp nhau bao giờ chưa?"
+              },
+              {
+                "ko": "저는 한국에 간 적이 없어요.",
+                "trans": "Tôi chưa từng đi Hàn Quốc."
+              }
+            ]
+          }
+        ],
+        "roleplay": {
+          "situation": "Bạn đang bị mắc mưa ngoài đường và tình cờ thấy một hiệu sách nhỏ mở cửa. Hãy lịch sự xin phép chủ tiệm vào trú mưa.",
+          "ko": "실례합니다. 잠깐 들어가도 돼요?",
+          "pron": "Sillyehamnida. Jamkkan deureogado dwaeyo?"
+        },
+        "quiz": [
+          {
+            "question": "Seoyeon làm nghề gì?",
+            "options": [
+              "Bác sĩ",
+              "Biên tập viên tạp chí",
+              "Giáo viên",
+              "Chủ hiệu sách"
+            ],
+            "answer": 1,
+            "explanation": "Trong câu '서연은 잡지사 에디터예요', Seoyeon được giới thiệu là biên tập viên tạp chí."
+          },
+          {
+            "question": "Chiếc đồng hồ của Seoyeon bị dừng lại ở mốc thời gian nào?",
+            "options": [
+              "12 giờ 00 phút",
+              "11 giờ 50 phút",
+              "11 giờ 59 phút",
+              "10 giờ 30 phút"
+            ],
+            "answer": 2,
+            "explanation": "Trong văn bản có ghi: '시계는 11시 59분에 멈춰 있어요' (Chiếc đồng hồ dừng lại ở 11 giờ 59 phút)."
+          },
+          {
+            "question": "Từ '책방' có nghĩa là gì?",
+            "options": [
+              "Phòng học",
+              "Hiệu sách",
+              "Thư viện",
+              "Cửa hàng đồng hồ"
+            ],
+            "answer": 1,
+            "explanation": "'책방' nghĩa là hiệu sách / tiệm bán sách."
+          },
+          {
+            "question": "Ngữ pháp nào dùng để xin phép thực hiện hành động?",
+            "options": [
+              "-고 싶어요",
+              "-아/어도 돼요?",
+              "-(으)ㄹ 수 없어요",
+              "-지 마세요"
+            ],
+            "answer": 1,
+            "explanation": "Cấu trúc '-아/어도 돼요?' dùng để hỏi ý kiến/xin phép người khác xem có thể làm việc gì không."
+          }
+        ],
+        "audioUrl": ""
+      },
+      "intermediate": {
+        "sentences": [
+          {
+            "ko": "마감을 끝내고 회사를 나왔을 때는 이미 밤 11시 50분이었다.",
+            "ruby": "",
+            "trans": "Khi hoàn thành công việc nộp bài và bước ra khỏi công ty thì trời đã 11 giờ 50 phút đêm.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "갑자기 비가 쏟아지기 시작했는데, 서연에게는 우산이 없었다.",
+            "ruby": "",
+            "trans": "Trời bất ngờ trút mưa xối xả, nhưng Seoyeon lại không mang theo ô.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연은 가방을 꼭 끌어안았다.",
+            "ruby": "",
+            "trans": "Seoyeon ôm chặt lấy chiếc túi xách vào lòng.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그 안에는 할머니의 회중시계가 들어 있었다.",
+            "ruby": "",
+            "trans": "Bên trong đó có chứa chiếc đồng hồ bỏ túi của bà.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "낮에 오래된 시계방에 갔을 때, 주인 할아버지는 고개를 저으며 말했다.",
+            "ruby": "",
+            "trans": "Ban ngày khi cô đến tiệm đồng hồ cũ, ông lão chủ tiệm đã lắc đầu nói:",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"고장 난 곳은 없는데 이상하게 안 움직여요.",
+            "ruby": "",
+            "trans": "\"Chẳng có chỗ nào hỏng cả nhưng lạ là nó không chịu chạy.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "뒤 뚜껑도 안 열리고요.\"",
+            "ruby": "",
+            "trans": "Nắp sau cũng chẳng mở ra được nữa.\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연은 비를 피하려고 골목 안으로 뛰어 들어갔다.",
+            "ruby": "",
+            "trans": "Seoyeon chạy lao vào trong ngõ để trú mưa.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "매일 지나다니던 골목인데, 끝에 처음 보는 책방 하나가 불을 밝히고 있었다.",
+            "ruby": "",
+            "trans": "Tuy là con ngõ ngày nào cô cũng đi qua, nhưng ở cuối đường lại có một hiệu sách lạ lẫm đang thắp sáng đèn.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "간판에는 〈물망서림〉이라고 쓰여 있었다.",
+            "ruby": "",
+            "trans": "Trên biển hiệu có ghi dòng chữ 〈Mulmangseorim〉.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "'잊지 말라'는 뜻의 옛날식 이름이었다.",
+            "ruby": "",
+            "trans": "Đó là một cái tên theo kiểu ngày xưa với ý nghĩa 'Đừng quên'.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "딸랑, 문을 열자 작은 종이 울렸다.",
+            "ruby": "",
+            "trans": "Keng keng, vừa mở cửa ra thì chiếc chuông nhỏ đã vang lên.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"저… 비가 그칠 때까지만 잠깐 들어가 있어도 될까요?\"",
+            "ruby": "",
+            "trans": "\"Cho tôi hỏi… Tôi có thể vào ở tạm một chút cho tới khi tạnh mưa được không ạ?\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "책을 읽고 있던 남자가 책을 덮고 고개를 들었다.",
+            "ruby": "",
+            "trans": "Người đàn ông đang đọc sách liền gấp sách lại và ngẩng đầu lên.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "베이지색 가디건에 은테 안경을 쓴 남자였다.",
+            "ruby": "",
+            "trans": "Đó là người đàn ông mặc áo cardigan màu be và đeo kính gọng bạc.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"그럼요, 들어오세요.",
+            "ruby": "",
+            "trans": "\"Tất nhiên rồi, mời cô vào.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 시간에 손님이 오신 건 오랜만이네요.\"",
+            "ruby": "",
+            "trans": "Đã lâu lắm rồi mới có khách ghé qua vào giờ này đấy.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그는 자신을 책방 주인 한도윤이라고 소개했다.",
+            "ruby": "",
+            "trans": "Anh ấy tự giới thiệu mình là Han Doyun, chủ hiệu sách.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 수건과 따뜻한 유자차를 건넸다.",
+            "ruby": "",
+            "trans": "Doyun đưa cho cô chiếc khăn tắm và một ly trà citron ấm áp.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"감사합니다.",
+            "ruby": "",
+            "trans": "\"Cảm ơn anh.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "늦게까지 문을 여시나 봐요.\"",
+            "ruby": "",
+            "trans": "Có vẻ như hiệu sách mở cửa đến tận khuya nhỉ.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"밤에 잠이 잘 안 와서요.",
+            "ruby": "",
+            "trans": "\"Tại vì ban đêm tôi khó ngủ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "어차피 깨어 있을 거라면 책방을 여는 게 낫더라고요.\"",
+            "ruby": "",
+            "trans": "Dù sao nếu đã thức thì thà mở cửa hiệu sách còn tốt hơn.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그렇게 말하는 그의 눈은 조금 지쳐 보였다.",
+            "ruby": "",
+            "trans": "Đôi mắt của anh khi nói vậy trông có vẻ hơi mệt mỏi.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "수건을 꺼내려고 가방을 열다가 서연은 무언가를 바닥에 떨어뜨렸다.",
+            "ruby": "",
+            "trans": "Đang mở túi lấy khăn ra, Seoyeon vô tình làm rơi vật gì đó xuống sàn.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 허리를 숙여 그것을 주웠다.",
+            "ruby": "",
+            "trans": "Doyun cúi lưng nhặt đồ vật đó lên.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "낡은 회중시계였다.",
+            "ruby": "",
+            "trans": "Đó là một chiếc đồng hồ bỏ túi cũ kỹ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "바늘은 11시 59분에 멈춰 있었다.",
+            "ruby": "",
+            "trans": "Kim đồng hồ đang dừng lại ở mốc 11 giờ 59 phút.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"할머니 유품이에요.",
+            "ruby": "",
+            "trans": "\"Đây là di vật của bà tôi.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "석 달 전에 돌아가셨는데, 제가 기억하는 동안 이 시계는 한 번도 움직인 적이 없어요.\"",
+            "ruby": "",
+            "trans": "Bà mất 3 tháng trước, nhưng trong suốt ký ức của tôi thì chiếc đồng hồ này chưa từng chạy lần nào cả.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 시계를 돌려주며 말했다.",
+            "ruby": "",
+            "trans": "Doyun vừa trả lại chiếc đồng hồ vừa nói:",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"11시 59분이라… 자정 1분 전이네요.\"",
+            "ruby": "",
+            "trans": "\"11 giờ 59 phút sao… Là 1 phút trước nửa đêm nhỉ.\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "바로 그때, 벽에 걸린 큰 시계가 자정을 알리기 시작했다.",
+            "ruby": "",
+            "trans": "Ngay lúc đó, chiếc đồng hồ lớn treo tường bắt đầu điểm báo nửa đêm.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "땡, 땡… 열두 번째 종소리가 울리자 서연의 손 위에서 회중시계가 희미하게 빛나기 시작했다.",
+            "ruby": "",
+            "trans": "Boong, boong… Tiếng chuông thứ mười hai vừa vang lên, chiếc đồng hồ bỏ túi trên tay Seoyeon bắt đầu tỏa ra ánh sáng mờ ảo.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그리고 멈춰 있던 초침이 째깍째깍 움직였다.",
+            "ruby": "",
+            "trans": "Và kim giây đang ngưng trệ bắt đầu chạy tích tắc tích tắc.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"말도 안 돼… 시계가 움직여요!\"",
+            "ruby": "",
+            "trans": "\"Không thể nào… Đồng hồ đang chạy này!\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 조심스럽게 시계를 만지자, 그의 눈앞에 다른 풍경이 펼쳐졌다.",
+            "ruby": "",
+            "trans": "Khi Doyun cẩn thận chạm vào chiếc đồng hồ, một viễn cảnh khác trải ra trước mắt anh.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "비에 젖은 오래된 기차역.",
+            "ruby": "",
+            "trans": "Một ga tàu hỏa cũ ướt sũng nước mưa.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "간판에는 '경성역'이라고 쓰여 있었다.",
+            "ruby": "",
+            "trans": "Trên bảng hiệu có ghi dòng chữ 'Ga Gyeongseong'.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "100년 전 서울역의 이름이었다.",
+            "ruby": "",
+            "trans": "Đó là tên gọi của Ga Seoul vào 100 năm trước.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그곳에서 한 여자가 이 시계를 꼭 쥔 채 누군가를 기다리고 있었다.",
+            "ruby": "",
+            "trans": "Ở nơi đó, một người phụ nữ đang nắm chặt chiếc đồng hồ này và chờ đợi ai đó.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "얼굴은 보이지 않았지만 도윤은 그 여자를 알았다.",
+            "ruby": "",
+            "trans": "Gương mặt không nhìn rõ nhưng Doyun nhận ra người phụ nữ đó.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "잠들지 못하는 밤마다 꿈속에서 보던 바로 그 여자였다.",
+            "ruby": "",
+            "trans": "Đó chính là người phụ nữ mà anh vẫn thường thấy trong giấc mơ vào những đêm mất ngủ.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "환영에서 깨어난 도윤의 얼굴은 하얗게 질려 있었다.",
+            "ruby": "",
+            "trans": "Tỉnh lại từ ảo ảnh, gương mặt Doyun tái mét đi.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런 도윤을 보는 순간, 서연은 가슴이 이상하게 두근거렸다.",
+            "ruby": "",
+            "trans": "Khoảnh khắc nhìn Doyun như vậy, trái tim Seoyeon bỗng đập liên hồi một cách lạ kỳ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 장면을 어디선가 본 것 같았다.",
+            "ruby": "",
+            "trans": "Hình như cô đã từng thấy cảnh tượng này ở đâu đó rồi.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"저기… 우리 전에 어디서 만난 적 있지 않아요?\"",
+            "ruby": "",
+            "trans": "\"Này anh… Có phải trước đây chúng ta từng gặp nhau ở đâu đó rồi không?\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 아무 대답도 하지 못했다.",
+            "ruby": "",
+            "trans": "Doyun không thể đưa ra bất kỳ câu trả lời nào.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그때 딸깍 소리와 함께, 절대 열리지 않던 뒤 뚜껑이 저절로 열렸다.",
+            "ruby": "",
+            "trans": "Lúc ấy kèm theo tiếng 'tách', chiếc nắp sau vốn không thể mở nổi đã tự động mở ra.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그 안에는 오래된 글씨가 새겨져 있었다.",
+            "ruby": "",
+            "trans": "Bên trong đó có khắc một dòng chữ cổ xưa.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"자정에 다시 만나요.",
+            "ruby": "",
+            "trans": "\"Hẹn gặp lại vào lúc nửa đêm.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "1925.\"",
+            "ruby": "",
+            "trans": "1925.\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          }
+        ],
+        "vocabDict": {
+          "마감": {
+            "word": "마감",
+            "pron": "magam",
+            "pos": "Danh từ",
+            "meaning": "Hạn chót, hoàn thành công việc nộp bài",
+            "example": "마감을 끝내고 퇴근했어요.",
+            "exampleTrans": "Tôi đã hoàn thành hạn chót công việc rồi tan làm."
+          },
+          "회중시계": {
+            "word": "회중시계",
+            "pron": "hoejungsigye",
+            "pos": "Danh từ",
+            "meaning": "Đồng hồ bỏ túi",
+            "example": "할머니의 회중시계가 들어 있었다.",
+            "exampleTrans": "Trong đó có chiếc đồng hồ bỏ túi của bà."
+          },
+          "유품": {
+            "word": "유품",
+            "pron": "yupum",
+            "pos": "Danh từ",
+            "meaning": "Di vật (đồ vật người quá cố để lại)",
+            "example": "이 시계는 할머니 유품이에요.",
+            "exampleTrans": "Chiếc đồng hồ này là di vật của bà tôi."
+          },
+          "자정": {
+            "word": "자정",
+            "pron": "jajeong",
+            "pos": "Danh từ",
+            "meaning": "Nửa đêm (12 giờ đêm)",
+            "example": "시계가 자정을 알리기 시작했다.",
+            "exampleTrans": "Đồng hồ bắt đầu báo hiệu nửa đêm."
+          },
+          "환영": {
+            "word": "환영",
+            "pron": "hwanyeong",
+            "pos": "Danh từ",
+            "meaning": "Ảo ảnh, ảo giác",
+            "example": "환영에서 깨어났어요.",
+            "exampleTrans": "Anh ấy đã tỉnh lại từ ảo ảnh."
+          },
+          "뒤 뚜껑": {
+            "word": "뒤 뚜껑",
+            "pron": "dwi ttukkeong",
+            "pos": "Danh từ",
+            "meaning": "Nắp phía sau",
+            "example": "시계의 뒤 뚜껑이 열렸다.",
+            "exampleTrans": "Nắp phía sau chiếc đồng hồ đã mở ra."
+          }
+        },
+        "expressions": [
+          {
+            "ko": "-(으)려던 참이다 / -(으)려다가",
+            "pron": "-(eu)ryeodeon cham-ida / -(eu)ryeodaga",
+            "meaning": "Đang định làm gì đó thì một hành động khác chen vào",
+            "examples": [
+              {
+                "ko": "수건을 꺼내려고 가방을 열다가 떨어뜨렸다.",
+                "trans": "Đang tính mở túi lấy khăn ra thì làm rơi mất đồ."
+              },
+              {
+                "ko": "막 나가지 않으려던 참이었어요.",
+                "trans": "Tôi cũng vừa định không đi ra ngoài."
+              }
+            ]
+          },
+          {
+            "ko": "-(으)ㄴ 채(로)",
+            "pron": "-(eu)n chae(ro)",
+            "meaning": "Giữ nguyên trạng thái nào đó rồi làm hành động khác",
+            "examples": [
+              {
+                "ko": "시계를 꼭 쥔 채 누군가를 기다렸다.",
+                "trans": "Nắm chặt chiếc đồng hồ trong tay và đợi ai đó."
+              },
+              {
+                "ko": "안경을 쓴 채 잠이 들었다.",
+                "trans": "Đeo nguyên kính mà ngủ thiếp đi."
+              }
+            ]
+          }
+        ],
+        "roleplay": {
+          "situation": "Bạn nhìn thấy thái độ bàng hoàng của Doyun khi anh ấy chạm vào chiếc đồng hồ và có cảm giác quen thuộc. Hãy hỏi anh ấy xem hai người từng gặp nhau chưa.",
+          "ko": "저기… 우리 전에 어디서 만난 적 있지 않아요?",
+          "pron": "Jeogi… uri jeone eodiseo mannan jeok itji anayo?"
+        },
+        "quiz": [
+          {
+            "question": "Vì sao Doyun lại mở cửa hiệu sách vào thời gian muộn như vậy?",
+            "options": [
+              "Vì có nhiều khách hàng đến muộn",
+              "Vì anh ấy bị mất ngủ vào ban đêm",
+              "Vì phải nộp bài kịp hạn chót",
+              "Vì phải sửa chiếc đồng hồ cổ"
+            ],
+            "answer": 1,
+            "explanation": "Doyun đã chia sẻ: '밤에 잠이 잘 안 와서요' (Vì ban đêm tôi khó ngủ)."
+          },
+          {
+            "question": "Khi đồng hồ điểm 12 tiếng, hiện tượng gì xảy ra với chiếc đồng hồ bỏ túi?",
+            "options": [
+              "Nó bị hỏng hoàn toàn",
+              "Nó biến mất",
+              "Nó phát sáng mờ ảo và kim giây bắt đầu chạy",
+              "Nó phát ra tiếng nhạc"
+            ],
+            "answer": 2,
+            "explanation": "Văn bản cho biết: '희미하게 빛나기 시작했다. 그리고 멈춰 있던 초침이 째깍째깍 움직였다' (Phát sáng mờ ảo và kim giây bắt đầu chạy)."
+          },
+          {
+            "question": "Từ '유품' mang ý nghĩa gì?",
+            "options": [
+              "Hàng thủ công",
+              "Di vật của người đã mất",
+              "Quà tặng kỷ niệm",
+              "Đồ cổ đắt tiền"
+            ],
+            "answer": 1,
+            "explanation": "'유품' (di vật) là đồ vật do người đã qua đời để lại."
+          },
+          {
+            "question": "Cấu trúc '-(으)ㄴ 채(로)' biểu thị điều gì?",
+            "options": [
+              "Hành động xảy ra liên tiếp",
+              "Lý do vì nguyên nhân nào đó",
+              "Duy trì một trạng thái sẵn có trong khi thực hiện hành động khác",
+              "Sự so sánh giữa hai đối tượng"
+            ],
+            "answer": 2,
+            "explanation": "'-(으)ㄴ 채(로)' biểu thị việc duy trì nguyên trạng thái của hành động/tình trạng trước."
+          }
+        ],
+        "audioUrl": ""
+      },
+      "advanced": {
+        "sentences": [
+          {
+            "ko": "마감 원고를 넘기고 편집부를 나섰을 때, 시계는 이미 밤 11시 50분을 가리키고 있었다.",
+            "ruby": "",
+            "trans": "Khi giao xong bản thảo hạn chót và rời khỏi phòng biên tập, chiếc đồng hồ đã chỉ 11 giờ 50분 đêm.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "예보에도 없던 비가 성수동의 붉은 벽돌 골목을 사정없이 두드렸다.",
+            "ruby": "",
+            "trans": "Cơn mưa không có trong dự báo thời tiết trút xuống không thương tiếc trên con ngõ gạch đỏ ở Seongsu-dong.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "우산을 챙기지 못한 서연은 트렌치코트 깃을 여미다 말고 가방부터 끌어안았다.",
+            "ruby": "",
+            "trans": "Không mang theo ô, Seoyeon bỏ dở việc kéo cổ áo trench coat lại mà vội ôm chặt lấy chiếc túi.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그 안에는 할머니의 회중시계가 들어 있었다.",
+            "ruby": "",
+            "trans": "Bên trong đó có chứa chiếc đồng hồ bỏ túi của bà.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "낮에 찾아간 40년 된 시계방의 노인은 돋보기를 내려놓으며 고개를 저었었다.",
+            "ruby": "",
+            "trans": "Ban ngày, vị lão niên ở tiệm đồng hồ 40 năm tuổi mà cô ghé thăm đã đặt kính lúp xuống và lắc đầu.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"고장 난 데는 하나도 없어요.",
+            "ruby": "",
+            "trans": "\"Không có chỗ nào hỏng hóc cả.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 도무지 가질 않네.",
+            "ruby": "",
+            "trans": "Thế nhưng nó nhất quyết không chịu chạy.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "뒤 뚜껑도 용접이라도 한 것처럼 꿈쩍을 안 하고.\"",
+            "ruby": "",
+            "trans": "Cả cái nắp sau cũng bất động như thể đã bị hàn chặt lại vậy.\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "출퇴근길에 수없이 지나다닌 골목이건만, 그날따라 막다른 끝에 낯선 불빛이 아른거렸다.",
+            "ruby": "",
+            "trans": "Dù là con ngõ từng đi qua vô số lần trên đường đi làm, nhưng riêng ngày hôm đó, nơi cuối hẻm cụt lại nhấp nháy ánh đèn xa lạ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "빛바랜 나무 간판에는 〈勿忘書林〉, 물망서림이라는 글자가 희미하게 남아 있었다.",
+            "ruby": "",
+            "trans": "Trên biển hiệu gỗ phai màu, các ký tự Hán tự 〈勿忘書林〉 - Mulmangseorim vẫn còn sót lại mờ nhạt.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "잊지 말라는 뜻을 담은, 요즘은 보기 드문 옛 서점 이름이었다.",
+            "ruby": "",
+            "trans": "Đó là tên một hiệu sách xưa mang ý nghĩa 'đừng quên', ngày nay hiếm khi bắt gặp.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이런 곳이 있었을 리가 없는데, 이상하게도 낯설지가 않았다.",
+            "ruby": "",
+            "trans": "Lẽ ra không thể có một nơi như thế này ở đây, nhưng kỳ lạ thay lại chẳng hề thấy xa lạ chút nào.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "딸랑, 문에 달린 종이 맑게 울렸다.",
+            "ruby": "",
+            "trans": "Keng keng, chiếc chuông gắn trên cửa vang lên trong trẻo.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"늦은 시간에 죄송합니다.",
+            "ruby": "",
+            "trans": "\"Xin lỗi vì đã đến vào giờ muộn thế này.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "비가 그칠 때까지만 잠시 들어가도 될까요?\"",
+            "ruby": "",
+            "trans": "Tôi có thể xin phép vào trú tạm cho đến khi tạnh mưa được không ạ?\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "계산대 너머에서 책을 읽던 남자가 고개를 들었다.",
+            "ruby": "",
+            "trans": "Người đàn ông đang đọc sách phía sau quầy thanh toán ngẩng đầu lên.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "베이지색 니트 가디건에 은테 안경을 쓴 남자였다.",
+            "ruby": "",
+            "trans": "Đó là một người đàn ông mặc áo cardigan len màu be, đeo kính gọng bạc.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그는 읽던 페이지에 손가락을 끼운 채 책을 덮으며 옅게 웃었다.",
+            "ruby": "",
+            "trans": "Anh kẹp ngón tay vào trang sách đang đọc dở, gấp sách lại và mỉm cười nhẹ nhàng.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"그럼요, 들어오세요.",
+            "ruby": "",
+            "trans": "\"Tất nhiên rồi, mời cô vào.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 시간에 손님이 오신 건 꽤 오랜만이네요.\"",
+            "ruby": "",
+            "trans": "Đã khá lâu rồi mới có khách đến vào khung giờ này đấy.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "마치 손님을 맞는 시간이 따로 정해져 있다는 듯한 말투였다.",
+            "ruby": "",
+            "trans": "Cách nói chuyện như thể có một khoảng thời gian riêng biệt định sẵn để đón khách vậy.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그는 자신을 이 책방의 주인, 한도윤이라고 소개했다.",
+            "ruby": "",
+            "trans": "Anh tự giới thiệu mình là Han Doyun, chủ hiệu sách này.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 마른 수건과 함께 김이 피어오르는 유자차를 내밀었다.",
+            "ruby": "",
+            "trans": "Doyun đưa ra chiếc khăn khô cùng ly trà citron nghi ngút khói.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "찻잔을 감싸 쥐자 얼어붙은 손끝으로 온기가 번졌다.",
+            "ruby": "",
+            "trans": "Vừa áp tay ôm lấy ly trà, hơi ấm liền lan tỏa đến tận các đầu ngón tay đang băng giá.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"이렇게 늦게까지 문을 여시나 봐요.\"",
+            "ruby": "",
+            "trans": "\"Có vẻ như anh mở cửa muộn thế này nhỉ.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"잠이 좀처럼 오질 않아서요.",
+            "ruby": "",
+            "trans": "\"Bởi vì tôi khó đi vào giấc ngủ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "어차피 깨어 있을 거라면, 책이라도 곁에 두는 편이 낫더라고요.\"",
+            "ruby": "",
+            "trans": "Dù sao nếu đã tỉnh táo thì thà để sách bên mình còn hơn.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "담담한 대답과 달리, 안경 너머의 눈가에는 오래 쌓인 피로가 그늘처럼 내려앉아 있었다.",
+            "ruby": "",
+            "trans": "Trái ngược với câu trả lời thản nhiên, sau gọng kính, viền mắt anh đọng lại sự mệt mỏi lâu ngày như một khoảng bóng râm.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "수건을 꺼내려 가방을 뒤적이던 찰나, 무언가가 미끄러져 나와 마룻바닥에 둔탁하게 부딪쳤다.",
+            "ruby": "",
+            "trans": "Đúng khoảnh khắc lục lọi túi xách để lấy khăn, một vật trượt ra và va đập bịch một tiếng xuống sàn gỗ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 허리를 숙여 그것을 주워 들었다.",
+            "ruby": "",
+            "trans": "Doyun cúi lưng xuống nhặt vật đó lên.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "손때 묻은 황동 회중시계였다.",
+            "ruby": "",
+            "trans": "Đó là một chiếc đồng hồ bỏ túi bằng đồng thau in hằn vết thời gian.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "녹슨 바늘은 11시 59분에 붙박여 있었다.",
+            "ruby": "",
+            "trans": "Kim đồng hồ hoen gỉ bị đóng chặt ở mốc 11 giờ 59 phút.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"할머니 유품이에요.",
+            "ruby": "",
+            "trans": "\"Đây là di vật của bà tôi.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "석 달 전에 돌아가셨는데, 평생 품에 지니고 다니셨대요.",
+            "ruby": "",
+            "trans": "Bà đã qua đời 3 tháng trước, nghe nói cả đời bà luôn mang theo nó bên người.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 제가 기억하는 한, 이 시계는 단 한 번도 움직인 적이 없어요.\"",
+            "ruby": "",
+            "trans": "Thế nhưng theo như tôi nhớ thì chiếc đồng hồ này chưa từng nhúc nhích dù chỉ một lần.\"",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "시계를 돌려주던 도윤의 시선이 바늘 위에 잠시 머물렀다.",
+            "ruby": "",
+            "trans": "Ánh mắt Doyun dừng lại một lúc trên kim đồng hồ trong khi anh trả lại nó.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"11시 59분이라… 자정을 꼭 1분 앞둔 시각이네요.\"",
+            "ruby": "",
+            "trans": "\"11 giờ 59 phút sao… Đúng thời điểm 1 phút trước nửa đêm nhỉ.\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그 말이 끝나기가 무섭게, 책방 안쪽의 괘종시계가 묵직하게 울리기 시작했다.",
+            "ruby": "",
+            "trans": "Lời vừa dứt, chiếc đồng hồ quả lắc ở phía trong hiệu sách liền bắt đầu điểm chuông trầm lắng.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "땡— 땡— 열두 번째 울림이 공기 속으로 스며드는 순간, 서연은 숨을 삼켰다.",
+            "ruby": "",
+            "trans": "Boong— boong— Ngay khoảnh khắc tiếng chuông thứ mười hai hòa tan vào không khí, Seoyeon nín thở.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "손바닥 위 회중시계의 유리 덮개 아래로 은은한 빛이 번지더니, 긴 잠에 빠져 있던 초침이 째깍, 다시 숨을 쉬기 시작한 것이다.",
+            "ruby": "",
+            "trans": "Dưới mặt kính chiếc đồng hồ bỏ túi trên lòng bàn tay, một làn ánh sáng dịu nhẹ tỏa ra, và kim giây vốn chìm trong giấc ngủ dài đã kêu tích tắc, bắt đầu nhịp thở trở lại.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"말도 안 돼… 시계가, 움직여요.\"",
+            "ruby": "",
+            "trans": "\"Không thể tin được… Đồng hồ đang… chạy kìa.\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연이 제 눈을 의심하는 사이, 도윤의 손끝이 시계에 닿았다.",
+            "ruby": "",
+            "trans": "Trong lúc Seoyeon còn đang nghi ngờ chính mắt mình, đầu ngón tay của Doyun đã chạm vào chiếc đồng hồ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "순간 그의 시야가 물결처럼 일렁이며 무너져 내렸다.",
+            "ruby": "",
+            "trans": "Ngay tức khắc, tầm nhìn của anh chao đảo như gợn sóng rồi sụp đổ hoàn toàn.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "자욱한 증기와 기적 소리, 빗물에 잠긴 플랫폼.",
+            "ruby": "",
+            "trans": "Hơi nước mịt mờ cùng tiếng còi tàu, đường sắt ngập trong nước mưa.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "돔 지붕 아래 걸린 간판에는 '京城驛(경성역)'이라는 글자가 선명했다.",
+            "ruby": "",
+            "trans": "Trên biển hiệu treo dưới mái vòm nổi bật chữ Hán '京城驛 (Ga Gyeongseong)'.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "지금의 서울역이 백 년 전에 불리던 이름이었다.",
+            "ruby": "",
+            "trans": "Đó là cái tên của Ga Seoul hiện tại vào một trăm năm trước.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그곳에, 이 시계를 두 손으로 꼭 쥔 한 여인이 끝내 오지 않는 누군가를 기다리며 서 있었다.",
+            "ruby": "",
+            "trans": "Ở nơi ấy, một người phụ nữ hai tay nắm chặt chiếc đồng hồ này đang đứng chờ đợi một người mãi chẳng thấy đến.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "얼굴은 보이지 않았다.",
+            "ruby": "",
+            "trans": "Gương mặt cô ấy không hề hiển hiện.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그러나 도윤은 그녀를 알고 있었다.",
+            "ruby": "",
+            "trans": "Nhưng Doyun biết rõ người phụ nữ ấy.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "잠 못 드는 밤마다 꿈속에서 등을 돌린 채 서 있던, 바로 그 여인이었다.",
+            "ruby": "",
+            "trans": "Đó chính là người phụ nữ trong những đêm mất ngủ vẫn luôn đứng quay lưng lại trong giấc mơ của anh.",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "환영에서 빠져나온 도윤의 얼굴은 하얗게 질려 있었다.",
+            "ruby": "",
+            "trans": "Thoát khỏi ảo ảnh, gương mặt Doyun tái nhợt đi vì bàng hoàng.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런 그를 마주한 순간, 서연의 가슴 깊은 곳에서 이름 붙일 수 없는 그리움이 밀물처럼 차올랐다.",
+            "ruby": "",
+            "trans": "Khoảnh khắc đối diện với anh khi đó, từ sâu thẫm trái tim Seoyeon, một niềm hoài niệm không tên dâng trào như thủy triều.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "빗소리, 오래된 종이 냄새, 안경 너머의 저 눈빛까지.",
+            "ruby": "",
+            "trans": "Tiếng mưa rơi, mùi giấy cũ, và cả ánh mắt phía sau gọng kính ấy.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "언젠가 꼭 한 번 겪었던 장면 같았다.",
+            "ruby": "",
+            "trans": "Cảm giác giống như một cảnh tượng cô từng trải qua ít nhất một lần trong quá khứ.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"이상하죠.",
+            "ruby": "",
+            "trans": "\"Kỳ lạ thật đấy.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "처음 뵙는 분인데… 우리, 전에 어디서 만난 적 있지 않나요?\"",
+            "ruby": "",
+            "trans": "Rõ ràng là lần đầu gặp mặt… Nhưng chúng ta, trước đây từng gặp nhau ở đâu đó rồi đúng không?\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 끝내 대답하지 못했다.",
+            "ruby": "",
+            "trans": "Doyun rốt cuộc vẫn không thể đưa ra câu trả lời.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "대신 딸깍, 하는 작은 소리와 함께 꿈쩍도 않던 뒤 뚜껑이 저절로 열렸다.",
+            "ruby": "",
+            "trans": "Thay vào đó, cùng tiếng 'tách' nhỏ, chiếc nắp sau vốn không nhúc nhích đã tự động mở ra.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "닳아 희미해진 안쪽 면에는 단정한 필체가 새겨져 있었다.",
+            "ruby": "",
+            "trans": "Mặt trong đã sờn mòn mờ nhạt có khắc những nét chữ ngay ngắn.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "\"자정에 다시 만나요.",
+            "ruby": "",
+            "trans": "\"Hẹn gặp lại vào lúc nửa đêm.",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "1925.\"",
+            "ruby": "",
+            "trans": "1925.\"",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          }
+        ],
+        "vocabDict": {
+          "붙박여": {
+            "word": "붙박이다",
+            "pron": "butbagida",
+            "pos": "Động từ",
+            "meaning": "Bị đóng chặt, gắn chặt một chỗ không di chuyển",
+            "example": "녹슨 바늘은 11시 59분에 붙박여 있었다.",
+            "exampleTrans": "Kim đồng hồ hoen gỉ bị đóng chặt ở mốc 11 giờ 59 phút."
+          },
+          "괘종시계": {
+            "word": "괘종시계",
+            "pron": "gwaejongsigye",
+            "pos": "Danh từ",
+            "meaning": "Đồng hồ quả lắc treo tường",
+            "example": "괘종시계가 묵직하게 울렸다.",
+            "exampleTrans": "Đồng hồ quả lắc điểm chuông trầm lắng."
+          },
+          "플랫폼": {
+            "word": "플랫폼",
+            "pron": "peullaetpom",
+            "pos": "Danh từ",
+            "meaning": "Sân ga (platform)",
+            "example": "빗물에 잠긴 플랫폼이 보였다.",
+            "exampleTrans": "Nhìn thấy sân ga ngập trong nước mưa."
+          },
+          "그리움": {
+            "word": "그리움",
+            "pron": "geurium",
+            "pos": "Danh từ",
+            "meaning": "Nỗi nhớ, niềm hoài niệm",
+            "example": "가슴 깊은 곳에서 그리움이 차올랐다.",
+            "exampleTrans": "Nỗi nhớ dâng trào từ sâu thẫm trái tim."
+          },
+          "필체": {
+            "word": "필체",
+            "pron": "pilche",
+            "pos": "Danh từ",
+            "meaning": "Nét chữ, phong cách viết chữ",
+            "example": "단정한 필체가 새겨져 있었다.",
+            "exampleTrans": "Nét chữ ngay ngắn đã được khắc vào."
+          }
+        },
+        "expressions": [
+          {
+            "ko": "-기가 무섭게",
+            "pron": "-giga museopge",
+            "meaning": "Ngay lập tức sau khi hành động trước kết thúc ('Ngay sau khi... thì ngay')",
+            "examples": [
+              {
+                "ko": "그 말이 끝나기가 무섭게 괘종시계가 울리기 시작했다.",
+                "trans": "Ngay sau khi lời vừa dứt, chiếc đồng hồ quả lắc bắt đầu điểm chuông."
+              },
+              {
+                "ko": "집에 도착하기가 무섭게 비가 내렸다.",
+                "trans": "Vừa về đến nhà một cái là trời trút mưa ngay."
+              }
+            ]
+          },
+          {
+            "ko": "-은/는 듯한",
+            "pron": "-eun/neun deut-han",
+            "meaning": "Biểu thị sự suy đoán giống như là/như thể là...",
+            "examples": [
+              {
+                "ko": "마치 손님을 맞는 시간이 따로 정해져 있다는 듯한 말투였다.",
+                "trans": "Cách nói chuyện như thể thời gian đón khách đã được định sẵn."
+              },
+              {
+                "ko": "그는 모든 것을 알고 있다는 듯한 표정을 지었다.",
+                "trans": "Anh ấy biểu lộ nét mặt như thể đã biết hết mọi chuyện."
+              }
+            ]
+          }
+        ],
+        "roleplay": {
+          "situation": "Bạn nhận ra sự quen thuộc bí ẩn trong mắt người đối diện cùng không khí cổ kính của hiệu sách. Hãy thể hiện cảm xúc mơ hồ đó bằng một câu thoại đầy hoài niệm.",
+          "ko": "처음 뵙는 분인데… 우리, 전에 어디서 만난 적 있지 않나요?",
+          "pron": "Cheoeum boemneun bun-inde… uri, jeone eodiseo mannan jeok itji anayo?"
+        },
+        "quiz": [
+          {
+            "question": "Biển hiệu bằng gỗ của hiệu sách có ghi chữ Hán nào và mang ý nghĩa gì?",
+            "options": [
+              "〈勿忘書林〉 - Đừng quên",
+              "〈聽雨書林〉 - Nghe tiếng mưa",
+              "〈Midnight Bookshop〉 - Nửa đêm",
+              "〈百年書林〉 - Trăm năm"
+            ],
+            "answer": 0,
+            "explanation": "Trên biển hiệu có ghi 〈勿忘書林〉 (Vật Vọng Thư Lâm) mang ý nghĩa '잊지 말라' (Đừng quên)."
+          },
+          {
+            "question": "Doyun đã nhìn thấy viễn cảnh gì khi chạm vào chiếc đồng hồ?",
+            "options": [
+              "Một hiệu sách hiện đại tại Seongsu-dong",
+              "Một người phụ nữ cầm chiếc đồng hồ đứng chờ ở Ga Gyeongseong mưa trút 100 năm trước",
+              "Bà của Seoyeon đang trao lại chiếc đồng hồ",
+              "Một chuyến tàu hỏa chạy về tương lai"
+            ],
+            "answer": 1,
+            "explanation": "Doyun nhìn thấy Ga Gyeongseong 100 năm trước và một người phụ nữ cầm chiếc đồng hồ đang đứng chờ dưới mưa."
+          },
+          {
+            "question": "Dòng chữ khắc bên trong nắp sau chiếc đồng hồ ghi thông điệp gì?",
+            "options": [
+              "Cảm ơn vì đã đến - 1925",
+              "Đừng quên tôi - 1925",
+              "Zatjeong-e dasi mannayo. 1925 (Hẹn gặp lại vào lúc nửa đêm. 1925)",
+              "Tạm biệt nhé - 1925"
+            ],
+            "answer": 2,
+            "explanation": "Văn bản xác nhận dòng chữ khắc là: '자정에 다시 만나요. 1925' (Hẹn gặp lại vào lúc nửa đêm. 1925)."
+          },
+          {
+            "question": "Ngữ pháp '-기가 무섭게' diễn tả điều gì?",
+            "options": [
+              "Sự sợ hãi khi làm điều gì",
+              "Hành động sau diễn ra ngay tức khắc sau hành động trước",
+              "Phủ định một hành động sắp diễn ra",
+              "Lý do dẫn đến sự việc tiêu cực"
+            ],
+            "answer": 1,
+            "explanation": "Cấu trúc '-기가 무섭게' dùng để diễn tả một sự việc diễn ra ngay lập tức tiếp sau hành động trước đó."
+          }
+        ],
+        "audioUrl": ""
+      }
+    },
+    "ep": 1,
+    "status": "Published",
+    "shortsId": ""
+  }
+]
