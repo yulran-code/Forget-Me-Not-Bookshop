@@ -1024,9 +1024,11 @@ episodesData = isPreview ? all : all.filter(ep => ep.status === 'Published');
             </select>
           </div>
           <div class="control-group">
-            <button class="btn-sm ${showPronunciation ? 'toggle-on' : ''}" onclick="togglePronunciation()">
-              ${showPronunciation ? t('pronOn') : t('pronOff')}
-            </button>
+            ${currentLevel === 'beginner' ? `
+              <button class="btn-sm ${showPronunciation ? 'toggle-on' : ''}" onclick="togglePronunciation()">
+                ${showPronunciation ? t('pronOn') : t('pronOff')}
+              </button>
+            ` : ''}
             <button class="btn-sm ${showTranslation ? 'toggle-on' : ''}" onclick="toggleTranslation()">
               ${showTranslation ? t('transOn') : t('transOff')}
             </button>
