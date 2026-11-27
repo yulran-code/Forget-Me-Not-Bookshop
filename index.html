@@ -180,34 +180,31 @@
       font-size: 0.8rem;
     }
 
-    /* 스토리 본문 */
+  /* 스토리 본문 (일반 소설 줄글 스타일) */
     .story-content {
-      font-size: 1.05rem;
-      line-height: 1.9;
+      font-size: 1.06rem;
+      line-height: 1.95;
+      word-break: keep-all;
     }
-    .sentence {
-      padding: 8px 10px;
-      border-radius: 8px;
+    .story-para {
+      margin-bottom: 1.15em;
+      text-indent: 0.2em;
+    }
+    .story-para:last-child {
+      margin-bottom: 0;
+    }
+    .sentence-inline {
       cursor: pointer;
-      transition: background 0.15s;
-      margin-bottom: 8px;
-      white-space: pre-line;
-    }
-    .sentence:hover { background: #f8fafc; }
-    .sentence.speaking {
-      background: var(--accent-soft);
-      font-weight: 500;
-    }
-    .scene-num {
-      display: inline-block;
-      font-size: 0.75rem;
-      font-weight: 700;
-      color: var(--accent);
-      background: #fef3c7;
-      padding: 1px 6px;
       border-radius: 4px;
-      margin-right: 6px;
-      vertical-align: middle;
+      padding: 2px 1px;
+      transition: background-color 0.15s ease;
+    }
+    .sentence-inline:hover {
+      background-color: #f1f5f9;
+    }
+    .sentence-inline.speaking {
+      background-color: var(--accent-soft);
+      box-shadow: 0 0 0 2px var(--accent-soft);
     }
 
     /* 학습 포인트 및 어휘 박스 */
