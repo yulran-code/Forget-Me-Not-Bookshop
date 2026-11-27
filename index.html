@@ -416,7 +416,7 @@
    * ?mode=review 화면에서 시트의 Draft 글을 불러오고 수정·발행할 수 있습니다.
    * 일반 학습자는 이 URL을 거치지 않고 GitHub의 data/episodes.json을 0.1초 만에 읽습니다.
    */
-  const APPS_SCRIPT_URL = "";
+  const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxnlz7LaoA_99pSXK_Urb_p8VMfLUcZq1hdhogENpd_qFhEHUk5NaWFmeTp-HoKVsNc5w/exec";
 
   const urlParams = new URLSearchParams(window.location.search);
   const isReviewMode = urlParams.get('mode') === 'review';
@@ -593,7 +593,7 @@
     window.speechSynthesis.cancel();
     mp3Player.pause();
     mp3Player.ontimeupdate = null;
-    document.querySelectorAll('.sentence').forEach(el => el.classList.remove('speaking'));
+    document.querySelectorAll('.sentence-inline').forEach(el => el.classList.remove('speaking'));
   }
 
   function playAll() {
@@ -762,7 +762,7 @@
         showToast("시트 저장 중 오류가 발생했습니다.");
       }
     } else {
-      showToast(`[로컬 테스트] ${ep.ep}화 수정 완료! (APPS_SCRIPT_URL 연결 시 시트에 자동 저장됩니다)`);
+      showToast(`[로컬 테스트] ${ep.ep}화 수정 완료! ( 연결 시 시트에 자동 저장됩니다)`);
     }
   }
 
