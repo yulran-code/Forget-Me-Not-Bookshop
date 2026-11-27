@@ -475,11 +475,15 @@
       </button>
     `).join("");
 
-    const sentencesHtml = lvlData.sentences.map((item, idx) => {
-      // [1], [2] 같은 장면 번호 강조 포맷팅
-      const formattedText = item.text.replace(/^\[(\d+)\]\s*/, '<span class="scene-num">$1</span>');
-      return `<div class="sentence" id="sent-${idx}" onclick="playSegment(${idx})">${formattedText}</div>`;
-    }).join("");
+    let sentencesHtml = '<p class="story-para">';
+    lvlData.sentences.forEach((item, idx) => {
+      const cleanText = item.text.replace(/^\[\d+\]\s*/, '');
+      sentencesHtml += `<span class="sentence-inline" id="sent-${idx}" onclick="playSegment(${idx})">${cleanText}</span> `;
+      if (item.paraEnd && idx < lvlData.sentences.length - 1) {
+        sentencesHtml += '</p><p class="story-para">';
+      }
+    });
+    sentencesHtml += '</p>';
 
     // Lite 유튜브 쇼츠 렌더링 (초기에는 썸네일만 띄워 속도 극대화)
     let shortsHtml = "";
