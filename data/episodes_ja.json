@@ -1,0 +1,1873 @@
+[
+  {
+    "arc": "EP 1. 止まってしまった懐中時計の持ち主",
+    "title": "1話《11時59分に止まった時計》",
+    "levels": {
+      "beginner": {
+        "sentences": [
+          {
+            "ko": "밤 11시 50분이에요.",
+            "ruby": "밤|bam 11시|sip-il-si 50분이에요.|o-sip-bun-i-e-yo.",
+            "trans": "夜の11時50分です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "비가 와요.",
+            "ruby": "비가|bi-ga 와요.|wa-yo.",
+            "trans": "雨が降っています。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연은 잡지사 에디터예요.",
+            "ruby": "서연은|seo-yeon-eun 잡지사|jap-ji-sa 에디터예요.|e-di-teo-ye-yo.",
+            "trans": "ソヨンは出版社（雑誌社）のエディターです。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "오늘 일이 늦게 끝났어요.",
+            "ruby": "오늘|o-neul 일이|il-i 늦게|neut-ge 끝났어요.|kkeut-nas-eo-yo.",
+            "trans": "今日仕事が遅く終わりました。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 우산이 없어요.",
+            "ruby": "그런데|geu-reon-de 우산이|u-san-i 없어요.|eobs-eo-yo.",
+            "trans": "けれど傘がありません。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연의 가방에는 할머니의 시계가 있어요.",
+            "ruby": "서연의|seo-yeon-ui 가방에는|ga-bang-e-neun 할머니의|hal-meo-ni-ui 시계가|si-gye-ga 있어요.|iss-eo-yo.",
+            "trans": "ソヨンのバッグにはおばあちゃんの時計が入っています。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "오늘 낮에 시계 가게에 갔어요.",
+            "ruby": "오늘|o-neul 낮에|naj-e 시계|si-gye 가게에|ga-ge-e 갔어요.|gas-eo-yo.",
+            "trans": "今日の昼、時計屋さんに行きました。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "가게 할아버지가 말했어요.",
+            "ruby": "가게|ga-ge 할아버지가|hal-a-beo-ji-ga 말했어요.|mal-haes-eo-yo.",
+            "trans": "お店のおじいさんが言いました。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“고장 난 곳이 없어요.",
+            "ruby": "“고장|“go-jang 난|nan 곳이|gos-i 없어요.|eobs-eo-yo.",
+            "trans": "‘故障しているところはありません。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 안 움직여요.",
+            "ruby": "그런데|geu-reon-de 안|an 움직여요.|um-jik-yeo-yo.",
+            "trans": "でも動かないんです。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "뒤도 안 열려요.”",
+            "ruby": "뒤도|dwi-do 안|an 열려요.”|yeol-ryeo-yo.”",
+            "trans": "裏蓋も開きません。’",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연은 골목으로 뛰어가요.",
+            "ruby": "서연은|seo-yeon-eun 골목으로|gol-mok-eu-ro 뛰어가요.|ttkwi-eo-ga-yo.",
+            "trans": "ソヨンは路地へと走っていきます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "매일 지나가는 골목이에요.",
+            "ruby": "매일|mae-il 지나가는|ji-na-ga-neun 골목이에요.|gol-mok-i-e-yo.",
+            "trans": "毎日通る路地です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 골목 끝에 작은 책방이 있어요.",
+            "ruby": "그런데|geu-reon-de 골목|gol-mok 끝에|kkeut-e 작은|ja-geun 책방이|chaek-bang-i 있어요.|iss-eo-yo.",
+            "trans": "しかし路地の突き当たりに小さな本屋があります。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "처음 보는 책방이에요.",
+            "ruby": "처음|cheo-eum 보는|bo-neun 책방이에요.|chaek-bang-i-e-yo.",
+            "trans": "初めて見る本屋です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이름은 〈물망서림〉이에요.",
+            "ruby": "이름은|i-reum-eun 〈물망서림〉이에요.|<mul-mang-seo-rim>-i-e-yo.",
+            "trans": "名前は〈勿忘書林〉です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "'서림'은 '책방'의 옛날 말이에요.",
+            "ruby": "'서림'은|'seo-rim'-eun '책방'의|'chaek-bang'-ui 옛날|yes-nal 말이에요.|mal-i-e-yo.",
+            "trans": "‘書林’とは‘本屋’の古い言葉です。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "딸랑.",
+            "ruby": "딸랑.|ttal-lang.",
+            "trans": "カランコロン。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연이 문을 열어요.",
+            "ruby": "서연이|seo-yeon-i 문을|mun-eul 열어요.|yeol-eo-yo.",
+            "trans": "ソヨンがドアを開けます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“실례합니다.",
+            "ruby": "“실례합니다.|“sil-lye-ham-ni-da.",
+            "trans": "‘失礼します。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "잠깐 들어가도 돼요?”",
+            "ruby": "잠깐|jam-kkan 들어가도|deul-eo-ga-do 돼요?”|dwae-yo?”",
+            "trans": "少し入ってもいいですか？’",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "안경을 쓴 남자가 책을 읽고 있어요.",
+            "ruby": "안경을|an-gyeong-eul 쓴|sseun 남자가|nam-ja-ga 책을|chaek-eul 읽고|ilg-go 있어요.|iss-eo-yo.",
+            "trans": "眼鏡をかけた男性が本を読んでいます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "남자가 책을 덮고 웃어요.",
+            "ruby": "남자가|nam-ja-ga 책을|chaek-eul 덮고|deop-go 웃어요.|us-eo-yo.",
+            "trans": "男性が本を閉じて微笑みます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“네, 들어오세요.",
+            "ruby": "“네,|“ne, 들어오세요.|deul-eo-o-se-yo.",
+            "trans": "‘はい、お入りください。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 시간에 손님은 오랜만이에요.”",
+            "ruby": "이|i 시간에|si-gan-e 손님은|son-nim-eun 오랜만이에요.”|o-raen-man-i-e-yo.”",
+            "trans": "この時間に客が来るのは久しぶりです。’",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "남자의 이름은 도윤이에요.",
+            "ruby": "남자의|nam-ja-ui 이름은|i-reum-eun 도윤이에요.|do-yun-i-e-yo.",
+            "trans": "男性の名前はドユンです。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 책방의 주인이에요.",
+            "ruby": "이|i 책방의|chaek-bang-ui 주인이에요.|ju-in-i-e-yo.",
+            "trans": "この本屋の店主です。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 수건과 따뜻한 유자차를 줘요.",
+            "ruby": "도윤이|do-yun-i 수건과|su-geon-gwa 따뜻한|tta-tteut-han 유자차를|yu-ja-cha-reul 줘요.|jwo-yo.",
+            "trans": "ドユンがタオルと温かいゆず茶を出してくれます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“고마워요.",
+            "ruby": "“고마워요.|“go-ma-wo-yo.",
+            "trans": "‘ありがとうございます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "늦게까지 문을 열어요?”",
+            "ruby": "늦게까지|neut-ge-kka-ji 문을|mun-eul 열어요?”|yeol-eo-yo?”",
+            "trans": "遅くまで店を開けているのですか？’",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“네.",
+            "ruby": "“네.|“ne.",
+            "trans": "‘はい。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "저는 밤에 잠을 잘 못 자요.”",
+            "ruby": "저는|jeo-neun 밤에|bam-e 잠을|jam-eul 잘|jal 못|mot 자요.”|ja-yo.”",
+            "trans": "僕は夜あまりよく眠れないんです。’",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤의 눈이 조금 피곤해 보여요.",
+            "ruby": "도윤의|do-yun-ui 눈이|nun-i 조금|jo-geum 피곤해|pi-gon-hae 보여요.|bo-yeo-yo.",
+            "trans": "ドユンの目が少し疲れているように見えます。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연이 가방을 열어요.",
+            "ruby": "서연이|seo-yeon-i 가방을|ga-bang-eul 열어요.|yeol-eo-yo.",
+            "trans": "ソヨンがバッグを開けます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그때 시계가 바닥에 떨어져요.",
+            "ruby": "그때|geu-ttae 시계가|si-gye-ga 바닥에|ba-dak-e 떨어져요.|tteol-eo-jyeo-yo.",
+            "trans": "その時、時計が床に落ちます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 시계를 주워요.",
+            "ruby": "도윤이|do-yun-i 시계를|si-gye-reul 주워요.|ju-wo-yo.",
+            "trans": "ドユンが時計を拾います。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "시계는 11시 59분에 멈춰 있어요.",
+            "ruby": "시계는|si-gye-neun 11시|sip-il-si 59분에|o-sip-gu-bun-e 멈춰|meom-chwo 있어요.|iss-eo-yo.",
+            "trans": "時計は11時59分で止まっています。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“할머니 시계예요.",
+            "ruby": "“할머니|“hal-meo-ni 시계예요.|si-gye-ye-yo.",
+            "trans": "‘祖母の時計なんです。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "할머니는 석 달 전에 돌아가셨어요.",
+            "ruby": "할머니는|hal-meo-ni-neun 석|seok 달|dal 전에|jeon-e 돌아가셨어요.|dor-a-ga-syeos-eo-yo.",
+            "trans": "祖母は3ヶ月前に亡くなりました。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 시계는 한 번도 안 움직였어요.”",
+            "ruby": "이|i 시계는|si-gye-neun 한|han 번도|beon-do 안|an 움직였어요.”|um-jik-yeos-eo-yo.”",
+            "trans": "この時計は一度も動きませんでした。’",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 시계를 돌려줘요.",
+            "ruby": "도윤이|do-yun-i 시계를|si-gye-reul 돌려줘요.|dol-ryeo-jwo-yo.",
+            "trans": "ドユンが時計を返します。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“11시 59분… 12시 1분 전이네요.”",
+            "ruby": "“11시|“sip-il-si 59분…|o-sip-gu-bun… 12시|sip-i-si 1분|il-bun 전이네요.”|jeon-i-ne-yo.”",
+            "trans": "‘11時59分… 12時1分前ですね。’",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "땡, 땡, 땡… 책방의 큰 시계가 울려요.",
+            "ruby": "땡,|ttaeng, 땡,|ttaeng, 땡…|ttaeng… 책방의|chaek-bang-ui 큰|keun 시계가|si-gye-ga 울려요.|ul-ryeo-yo.",
+            "trans": "ボーン、ボーン、ボーン… 本屋の大きな時計が鳴ります。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "12시예요.",
+            "ruby": "12시예요.|sip-i-si-ye-yo.",
+            "trans": "12時です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그때 서연의 손에서 시계가 빛나요.",
+            "ruby": "그때|geu-ttae 서연의|seo-yeon-ui 손에서|son-eo-seo 시계가|si-gye-ga 빛나요.|bin-na-yo.",
+            "trans": "その時、ソヨンの手の中で時計が光を放ちます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "똑딱, 똑딱.",
+            "ruby": "똑딱,|ttok-ttak, 똑딱.|ttok-ttak.",
+            "trans": "カチ、コチ。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“어?",
+            "ruby": "“어?|“eo?",
+            "trans": "‘えっ？",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "시계가 움직여요!”",
+            "ruby": "시계가|si-gye-ga 움직여요!”|um-jik-yeo-yo!”",
+            "trans": "時計が動いています！’",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 시계를 만져요.",
+            "ruby": "도윤이|do-yun-i 시계를|si-gye-reul 만져요.|man-jyeo-yo.",
+            "trans": "ドユンが時計に触れます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤의 눈앞에 다른 곳이 보여요.",
+            "ruby": "도윤의|do-yun-ui 눈앞에|nun-ap-e 다른|da-reun 곳이|gos-i 보여요.|bo-yeo-yo.",
+            "trans": "ドユンの目の前に別の場所が見えてきます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "비 오는 기차역이에요.",
+            "ruby": "비|bi 오는|o-neun 기차역이에요.|gi-cha-yeok-i-e-yo.",
+            "trans": "雨の降る駅です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "'경성역'이에요.",
+            "ruby": "'경성역'이에요.|'gyeong-seong-yeok'-i-e-yo.",
+            "trans": "‘京城（キョンソン）駅’です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "100년 전의 서울역이에요.",
+            "ruby": "100년|baek-nyeon 전의|jeon-ui 서울역이에요.|seo-ul-yeok-i-e-yo.",
+            "trans": "100年前のソウル駅です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "한 여자가 이 시계를 들고 있어요.",
+            "ruby": "한|han 여자가|yeo-ja-ga 이|i 시계를|si-gye-reul 들고|deul-go 있어요.|iss-eo-yo.",
+            "trans": "一人の女性がこの時計を持っています。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "누군가를 기다리고 있어요.",
+            "ruby": "누군가를|nu-gun-ga-reul 기다리고|gi-da-ri-go 있어요.|iss-eo-yo.",
+            "trans": "誰かを待っています。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "여자의 얼굴은 안 보여요.",
+            "ruby": "여자의|yeo-ja-ui 얼굴은|eol-gul-eun 안|an 보여요.|bo-yeo-yo.",
+            "trans": "女性の顔は見えません。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 도윤은 그 여자를 알아요.",
+            "ruby": "그런데|geu-reon-de 도윤은|do-yun-eun 그|geu 여자를|yeo-ja-reul 알아요.|al-a-yo.",
+            "trans": "けれどドユンはその女性を知っています。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "꿈에서 자주 본 여자예요.",
+            "ruby": "꿈에서|kkum-eo-seo 자주|ja-ju 본|bon 여자예요.|yeo-ja-ye-yo.",
+            "trans": "夢でよく見かけた女性です。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 눈을 떠요.",
+            "ruby": "도윤이|do-yun-i 눈을|nun-eul 떠요.|tteo-yo.",
+            "trans": "ドユンが目を開けます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "얼굴이 하얘요.",
+            "ruby": "얼굴이|eol-gul-i 하얘요.|ha-yae-yo.",
+            "trans": "顔が真っ青（青白い）です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연이 도윤을 봐요.",
+            "ruby": "서연이|seo-yeon-i 도윤을|do-yun-eul 봐요.|bwa-yo.",
+            "trans": "ソヨンがドユンを見つめます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "처음 만난 사람이에요.",
+            "ruby": "처음|cheo-eum 만난|man-nan 사람이에요.|sa-ram-i-e-yo.",
+            "trans": "初めて会った人です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 처음이 아닌 것 같아요.",
+            "ruby": "그런데|geu-reon-de 처음이|cheo-eum-i 아닌|a-nin 것|geos 같아요.|gat-a-yo.",
+            "trans": "けれど初対面ではない気がします。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“저기요… 우리 전에 만난 적 있어요?”",
+            "ruby": "“저기요…|“jeo-gi-yo… 우리|u-ri 전에|jeon-e 만난|man-nan 적|jeok 있어요?”|iss-eo-yo?”",
+            "trans": "‘あのう… 私たち、以前にお会いしたことありますか？’",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 아무 말도 못 해요.",
+            "ruby": "도윤은|do-yun-eun 아무|a-mu 말도|mal-do 못|mot 해요.|hae-yo.",
+            "trans": "ドユンは何の言葉も出せません。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그때 딸깍.",
+            "ruby": "그때|geu-ttae 딸깍.|ttal-kkak.",
+            "trans": "その時、カチッ。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "시계 뒤가 열려요.",
+            "ruby": "시계|si-gye 뒤가|dwi-ga 열려요.|yeol-ryeo-yo.",
+            "trans": "時計の裏蓋が開きます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "안에 작은 글자가 있어요.",
+            "ruby": "안에|an-e 작은|ja-geun 글자가|geul-ja-ga 있어요.|iss-eo-yo.",
+            "trans": "中に小さな文字が刻まれています。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“자정에 다시 만나요.",
+            "ruby": "“자정에|“ja-jeong-e 다시|da-si 만나요.|man-na-yo.",
+            "trans": "‘子時にまた会いましょう。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "1925.”",
+            "ruby": "1925.”|cheon-gu-baek-i-sip-o-nyeon.”",
+            "trans": "1925年。’",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          }
+        ],
+        "vocabDict": {
+          "잡지사": {
+            "word": "잡지사",
+            "pron": "jap-ji-sa",
+            "pos": "名詞",
+            "meaning": "出版社、雑誌社",
+            "example": "저는 잡지사에서 일해요.",
+            "exampleTrans": "私は出版社（雑誌社）で働いています。"
+          },
+          "골목": {
+            "word": "골목",
+            "pron": "gol-mok",
+            "pos": "名詞",
+            "meaning": "路地、横丁",
+            "example": "골목이 조금 어두워요.",
+            "exampleTrans": "路地が少し暗いです。"
+          },
+          "책방": {
+            "word": "책방",
+            "pron": "chaek-bang",
+            "pos": "名詞",
+            "meaning": "本屋、書店",
+            "example": "작은 책방에 들어갔어요.",
+            "exampleTrans": "小さな本屋に入りました。"
+          },
+          "시계": {
+            "word": "시계",
+            "pron": "si-gye",
+            "pos": "名詞",
+            "meaning": "時計",
+            "example": "이 시계는 멈췄어요.",
+            "exampleTrans": "この時計は止まりました。"
+          },
+          "자정": {
+            "word": "자정",
+            "pron": "ja-jeong",
+            "pos": "名詞",
+            "meaning": "午前零時、子時、夜中",
+            "example": "자정에 종이 울려요.",
+            "exampleTrans": "午前零時に鐘が鳴ります。"
+          }
+        },
+        "expressions": [
+          {
+            "ko": "-아/어도 돼요?",
+            "pron": "-a/eo-do dwae-yo?",
+            "meaning": "「〜してもいいですか？」という許可を求める初心者向けの基本表現です。動詞の陽語幹には『-아도 돼요?』、陰語幹には『-어도 돼요?』を接続します。",
+            "examples": [
+              {
+                "ko": "잠깐 들어가도 돼요?",
+                "trans": "少し入ってもいいですか？"
+              },
+              {
+                "ko": "여기 앉아도 돼요?",
+                "trans": "ここに座ってもいいですか？"
+              }
+            ]
+          },
+          {
+            "ko": "-(ㄴ/은) 적이 있다/없다",
+            "pron": "-(n/eun) jeok-i iss-da/eobs-da",
+            "meaning": "「〜したことがある／ない」という過去の経験を表す表現です。パッチムがない動詞には『-ㄴ 적』、パッチムがある動詞には『-은 적』がつきます。",
+            "examples": [
+              {
+                "ko": "우리 전에 만난 적 있어요?",
+                "trans": "私達、以前にお会いしたことありますか？"
+              },
+              {
+                "ko": "저는 한국에 간 적이 없어요.",
+                "trans": "私は韓国へ行ったことがありません。"
+              }
+            ]
+          }
+        ],
+        "roleplay": {
+          "situation": "あなたは雨夜の路地で不思議な古本屋『물망서림』を偶然見つけ、雨宿りのために店主のドユンに声をかけるソヨンです。",
+          "ko": "실례합니다. 잠깐 들어가도 돼요?",
+          "pron": "sil-lye-ham-ni-da. jam-kkan deul-eo-ga-do dwae-yo?"
+        },
+        "quiz": [
+          {
+            "question": "ソヨンが『물망서림』に入った理由は何ですか？",
+            "options": [
+              "本を買いにいくため",
+              "雨が降っていて傘がなかったため",
+              "ドユンに招待されたため",
+              "時計を修理してもらうため"
+            ],
+            "answer": 1,
+            "explanation": "ソヨンは仕事帰りに雨が降り出しましたが、傘を持っていなかったため路地で見つけた本屋に雨宿りのために入りました。"
+          },
+          {
+            "question": "12時になった瞬間、ソヨンの懐中時計に何が起きましたか？",
+            "options": [
+              "時計が壊れて針が落ちた",
+              "時計が光り動き始めた",
+              "時計の音が止まった",
+              "時計が急に消えてなくなった"
+            ],
+            "answer": 1,
+            "explanation": "本屋の時計が12時を知らせた瞬間、ソヨンの手の中で止まっていた懐中時計が光を放ち『カチ、コチ』と動き出しました。"
+          },
+          {
+            "question": "「〜してもいいですか？」という許可を求める表現として正しいものはどれですか？",
+            "options": [
+              "-아/어도 돼요?",
+              "-지 마세요",
+              "-(으)ㄹ 수 없어요",
+              "-고 싶어요"
+            ],
+            "answer": 0,
+            "explanation": "『-아/어도 돼요?』は「〜してもいいですか？」と許可を乞う表現です。（例: 들어가도 돼요? = 入ってもいいですか？）"
+          },
+          {
+            "question": "『책방』と同じ意味を持つ古い単語として本文で紹介されているものはどれですか？",
+            "options": [
+              "잡지사",
+              "서림",
+              "경성",
+              "자정"
+            ],
+            "answer": 1,
+            "explanation": "本文の中に \"'서림'은 '책방'의 옛날 말이에요.\"（‘書林’とは‘本屋’の古い言葉です）と記述されています。"
+          }
+        ],
+        "audioUrl": ""
+      },
+      "intermediate": {
+        "sentences": [
+          {
+            "ko": "마감을 끝내고 회사를 나왔을 때는 이미 밤 11시 50분이었다.",
+            "ruby": "",
+            "trans": "締め切りを終えて会社を出た時には、すでに夜の11時50分だった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "갑자기 비가 쏟아지기 시작했는데, 서연에게는 우산이 없었다.",
+            "ruby": "",
+            "trans": "急に雨が降り出し始めたが、ソヨンには傘がなかった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연은 가방을 꼭 끌어안았다.",
+            "ruby": "",
+            "trans": "ソヨンはバッグをぎゅっと抱きしめた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그 안에는 할머니의 회중시계가 들어 있었다.",
+            "ruby": "",
+            "trans": "その中には祖母の懐中時計が入っていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "낮에 오래된 시계방에 갔을 때, 주인 할아버지는 고개를 저으며 말했다.",
+            "ruby": "",
+            "trans": "昼間、古い時計屋に行った時、店主のおじいさんは首を振りながら言った。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“고장 난 곳은 없는데 이상하게 안 움직여요.",
+            "ruby": "",
+            "trans": "“故障しているところはないのに、不思議と動かないんですよ。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "뒤 뚜껑도 안 열리고요.”",
+            "ruby": "",
+            "trans": "裏蓋も開かないですし。”",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연은 비를 피하려고 골목 안으로 뛰어 들어갔다.",
+            "ruby": "",
+            "trans": "ソヨンは雨を避けようと路地の奥へ駆け込んだ。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "매일 지나다니던 골목인데, 끝에 처음 보는 책방 하나가 불을 밝히고 있었다.",
+            "ruby": "",
+            "trans": "毎日通っていた路地なのに、突き当りに初めて見る本屋が一つ灯りをともしていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "간판에는 〈물망서림〉이라고 쓰여 있었다.",
+            "ruby": "",
+            "trans": "看板には〈勿忘書林〉と書かれていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "'잊지 말라'는 뜻의 옛날식 이름이었다.",
+            "ruby": "",
+            "trans": "'忘れるな'という意味の昔風の名前だった。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "딸랑, 문을 열자 작은 종이 울렸다.",
+            "ruby": "",
+            "trans": "カランとドアを開けると小さな鈴が鳴った。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“저… 비가 그칠 때까지만 잠깐 들어가 있어도 될까요?”",
+            "ruby": "",
+            "trans": "“あの…雨がやむまで少しだけ中に入らせてもらってもいいでしょうか？”",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "책을 읽고 있던 남자가 책을 덮고 고개를 들었다.",
+            "ruby": "",
+            "trans": "本を読んでいた男性が本を閉じて顔を上げた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "베이지색 가디건에 은테 안경을 쓴 남자였다.",
+            "ruby": "",
+            "trans": "ベージュのカーディガンに銀縁眼鏡をかけた男性だった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“그럼요, 들어오세요.",
+            "ruby": "",
+            "trans": "“もちろんです、お入りください。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 시간에 손님이 오신 건 오랜만이네요.”",
+            "ruby": "",
+            "trans": "この時間に客が来られたのは久しぶりですね。”",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그는 자신을 책방 주인 한도윤이라고 소개했다.",
+            "ruby": "",
+            "trans": "彼は自分を本屋の店主ハン・ドユンだと紹介した。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 수건과 따뜻한 유자차를 건넸다.",
+            "ruby": "",
+            "trans": "ドユンはタオルと温かいゆず茶を手渡した。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“감사합니다.",
+            "ruby": "",
+            "trans": "“ありがとうございます。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "늦게까지 문을 여시나 봐요.”",
+            "ruby": "",
+            "trans": "遅くまで店を開けられているのですね。”",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“밤에 잠이 잘 안 와서요.",
+            "ruby": "",
+            "trans": "“夜にあまり眠れなくてですね。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "어차피 깨어 있을 거라면 책방을 여는 게 낫더라고요.”",
+            "ruby": "",
+            "trans": "どうせ起きているのなら本屋を開けておく方がよかったんですよ。”",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그렇게 말하는 그의 눈은 조금 지쳐 보였다.",
+            "ruby": "",
+            "trans": "そう話す彼の目は少し疲れているように見えた。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "수건을 꺼내려고 가방을 열다가 서연은 무언가를 바닥에 떨어뜨렸다.",
+            "ruby": "",
+            "trans": "タオルを取り出そうとバッグを開けた拍子に、ソヨンは何かを床に落としてしまった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 허리를 숙여 그것을 주웠다.",
+            "ruby": "",
+            "trans": "ドユンが腰をかがめてそれを拾い上げた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "낡은 회중시계였다.",
+            "ruby": "",
+            "trans": "古びた懐中時計だった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "바늘은 11시 59분에 멈춰 있었다.",
+            "ruby": "",
+            "trans": "針は11時59分で止まっていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“할머니 유품이에요.",
+            "ruby": "",
+            "trans": "“祖母の遺品です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "석 달 전에 돌아가셨는데, 제가 기억하는 동안 이 시계는 한 번도 움직인 적이 없어요.”",
+            "ruby": "",
+            "trans": "3ヶ月前に亡くなったのですが、私が覚えている限りこの時計は一度も動いたことがありません。”",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 시계를 돌려주며 말했다.",
+            "ruby": "",
+            "trans": "ドユンは時計を返しながら言った。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“11시 59분이라… 자정 1분 전이네요.”",
+            "ruby": "",
+            "trans": "“11時59分か… 午前零時の1分前ですね。”",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "바로 그때, 벽에 걸린 큰 시계가 자정을 알리기 시작했다.",
+            "ruby": "",
+            "trans": "まさにその時、壁にかかった大きな時計が午前零時を知らせ始めた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "땡, 땡… 열두 번째 종소리가 울리자 서연의 손 위에서 회중시계가 희미하게 빛나기 시작했다.",
+            "ruby": "",
+            "trans": "ボーン、ボーン… 12回目の鐘の音が鳴ると、ソヨンの手の上で懐中時計がかすかに光り始めた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그리고 멈춰 있던 초침이 째깍째깍 움직였다.",
+            "ruby": "",
+            "trans": "そして止まっていた秒針がチクタクと動き出した。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“말도 안 돼… 시계가 움직여요!”",
+            "ruby": "",
+            "trans": "“信じられない… 時計が動いています！”",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 조심스럽게 시계를 만지자, 그의 눈앞에 다른 풍경이 펼쳐졌다.",
+            "ruby": "",
+            "trans": "ドユンがそっと時計に触れると、彼の目の前に別の風景が広がった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "비에 젖은 오래된 기차역.",
+            "ruby": "",
+            "trans": "雨に濡れた古い駅。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "간판에는 '경성역'이라고 쓰여 있었다.",
+            "ruby": "",
+            "trans": "看板には'京城駅'と書かれていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "100년 전 서울역의 이름이었다.",
+            "ruby": "",
+            "trans": "100年前のソウル駅の名前だった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그곳에서 한 여자가 이 시계를 꼭 쥔 채 누군가를 기다리고 있었다.",
+            "ruby": "",
+            "trans": "そこで一人の女性がこの時計を固く握りしめたまま、誰かを待っていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "얼굴은 보이지 않았지만 도윤은 그 여자를 알았다.",
+            "ruby": "",
+            "trans": "顔は見えなかったが、ドユンはその女性を知っていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "잠들지 못하는 밤마다 꿈속에서 보던 바로 그 여자였다.",
+            "ruby": "",
+            "trans": "眠れない夜ごとに夢の中で見ていた、まさにその女性だった。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "환영에서 깨어난 도윤의 얼굴은 하얗게 질려 있었다.",
+            "ruby": "",
+            "trans": "幻影から覚めたドユンの顔は真っ青になっていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런 도윤을 보는 순간, 서연은 가슴이 이상하게 두근거렸다.",
+            "ruby": "",
+            "trans": "そんなドユンを見た瞬間、ソヨンは胸が不思議とドキドキした。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 장면을 어디선가 본 것 같았다.",
+            "ruby": "",
+            "trans": "この光景をどこかで見たことがある気がした。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“저기… 우리 전에 어디서 만난 적 있지 않아요?”",
+            "ruby": "",
+            "trans": "“あの…私たち、以前どこかでお会いしたことありませんか？”",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 아무 대답도 하지 못했다.",
+            "ruby": "",
+            "trans": "ドユンは何の返事もできなかった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그때 딸깍 소리와 함께, 절대 열리지 않던 뒤 뚜껑이 저절로 열렸다.",
+            "ruby": "",
+            "trans": "その時カチッと音がして、絶対に開かなかった裏蓋が自然と開いた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그 안에는 오래된 글씨가 새겨져 있었다.",
+            "ruby": "",
+            "trans": "その中には古い文字が刻まれていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“자정에 다시 만나요.",
+            "ruby": "",
+            "trans": "“午前零時にまた会いましょう。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "1925.”",
+            "ruby": "",
+            "trans": "1925.”",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          }
+        ],
+        "vocabDict": {
+          "회중시계": {
+            "word": "회중시계",
+            "pron": "hoejungsigye",
+            "pos": "명사 (名詞)",
+            "meaning": "懐中時計",
+            "example": "그는 아버지가 물려주신 회중시계를 소중히 여긴다.",
+            "exampleTrans": "彼は父から譲り受けた懐中時計を大切にしている。"
+          },
+          "골목": {
+            "word": "골목",
+            "pron": "golmok",
+            "pos": "명사 (名詞)",
+            "meaning": "路地、横丁",
+            "example": "어두운 골목을 혼자 걸어갔다.",
+            "exampleTrans": "暗い路地を一人で歩いて行った。"
+          },
+          "유품": {
+            "word": "유품",
+            "pron": "yupum",
+            "pos": "명사 (名詞)",
+            "meaning": "遺品",
+            "example": "서랍 깊은 곳에서 할머니의 유품을 찾았다.",
+            "exampleTrans": "引き出しの奥から祖母の遺品を見つけた。"
+          },
+          "환영": {
+            "word": "환영",
+            "pron": "hwanyeong",
+            "pos": "명사 (名詞)",
+            "meaning": "幻影、まぼろし",
+            "example": "그 순간 마치 눈앞에 환영이 보이는 것 같았다.",
+            "exampleTrans": "その瞬間、まるで目の前に幻影が見えるようだった。"
+          },
+          "저절로": {
+            "word": "저절로",
+            "pron": "jeojeollo",
+            "pos": "부사 (副詞)",
+            "meaning": "自然と、ひとりでに",
+            "example": "바람이 불자 닫혀 있던 문이 저절로 열렸다.",
+            "exampleTrans": "風が吹くと閉まっていたドアが自然と開いた。"
+          }
+        },
+        "expressions": [
+          {
+            "ko": "-는 게 낫다",
+            "pron": "-neun ge natda",
+            "meaning": "～する方がよい、～した方がましだ（いくつかの選択肢の中でより良い行動を表す表現）",
+            "examples": [
+              {
+                "ko": "집에 혼자 있는 것보다 밖에 나가는 게 낫겠어요.",
+                "trans": "家で一人でいるより外に出る方がいいでしょう。"
+              },
+              {
+                "ko": "비가 오니까 오늘은 택시를 타고 가는 게 낫다.",
+                "trans": "雨が降っているから今日はタクシーに乗っていく方がよい。"
+              }
+            ]
+          },
+          {
+            "ko": "-(으)ㄴ 채(로)",
+            "pron": "-(eu)n chae(ro)",
+            "meaning": "～したまま（ある状態を維持したまま次の行動をする表現）",
+            "examples": [
+              {
+                "ko": "그는 안경을 쓴 채로 잠이 들었다.",
+                "trans": "彼は眼鏡をかけたまま眠りについた。"
+              },
+              {
+                "ko": "손에 회중시계를 쥔 채 멍하니 서 있었다.",
+                "trans": "手に懐中時計を握りしめたままぼんやりと立っていた。"
+              }
+            ]
+          }
+        ],
+        "roleplay": {
+          "situation": "雨の夜、見知らぬ本屋『勿忘書林』に入り、雨がやむまでしばらく中にいさせてもらいたいと店主に頼むソヨンの場面です。",
+          "ko": "저… 비가 그칠 때까지만 잠깐 들어가 있어도 될까요?",
+          "pron": "jeo… biga geuchil ttaekkajiman jamkkan deureoga isseodo doelkkayo?"
+        },
+        "quiz": [
+          {
+            "question": "서연이 책방 '물망서림'에 들어가게 된 직접적인 이유는 무엇인가요?",
+            "options": [
+              "책을 사기 위해서",
+              "갑자기 쏟아진 비를 피하기 위해서",
+              "한도윤을 만나러 가기 위해서",
+              "고장 난 회중시계를 고치기 위해서"
+            ],
+            "answer": 1,
+            "explanation": "서연은 갑자기 비가 쏟아지자 비를 피하려고 골목 안으로 뛰어 들어갔다가 책방을 발견하고 들어갔습니다."
+          },
+          {
+            "question": "회중시계가 다시 움직이기 시작한 순간은 언제인가요?",
+            "options": [
+              "서연이 책방 문을 열었을 때",
+              "도윤이 유자차를 건넸을 때",
+              "벽시계가 자정을 알리는 열두 번째 종소리가 울렸을 때",
+              "도윤이 뒤 뚜껑을 강제로 열었을 때"
+            ],
+            "answer": 2,
+            "explanation": "벽에 걸린 큰 시계가 자정을 알리며 열두 번째 종소리가 울릴 때 서연의 손 위에서 회중시계가 빛나며 초침이 움직였습니다."
+          },
+          {
+            "question": "다음 중 '저절로'의 의미로 가장 적절한 것은 무엇인가요?",
+            "options": [
+              "갑자기 빠르게",
+              "누군가의 도움으로",
+              "아무런 힘을 가하지 않아도 자연히",
+              "매우 힘겹게"
+            ],
+            "answer": 2,
+            "explanation": "'저절로'는 다른 힘이나 의도를 빌리지 않고 '자연히' 또는 '스스로'라는 뜻을 나타내는 부사입니다."
+          },
+          {
+            "question": "문장 '어차피 깨어 있을 거라면 책방을 여는 게 낫더라고요.'에서 '-는 게 낫다'의 의미는 무엇인가요?",
+            "options": [
+              "~하는 편이 더 좋거나 바람직하다",
+              "~하기가 매우 불가능하다",
+              "~하려고 마음을 먹었다",
+              "~할까 봐 걱정된다"
+            ],
+            "answer": 0,
+            "explanation": "'-는 게 낫다'는 여러 선택지 중 다른 행동을 하는 것이 더 낫거나 바람직함을 나타낼 때 사용합니다."
+          }
+        ],
+        "audioUrl": ""
+      },
+      "advanced": {
+        "sentences": [
+          {
+            "ko": "마감 원고를 넘기고 편집부를 나섰을 때, 시계는 이미 밤 11시 50분을 가리키고 있었다.",
+            "ruby": "",
+            "trans": "締め切り原稿を渡して編集部を出た時、時計はすでに夜の11時50分を指していた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "예보에도 없던 비가 성수동의 붉은 벽돌 골목을 사정없이 두드렸다.",
+            "ruby": "",
+            "trans": "予報にもなかった雨が、聖水洞（ソンスドン）の赤い煉瓦の路地を容赦なく叩きつけた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "우산을 챙기지 못한 서연은 트렌치코트 깃을 여미다 말고 가방부터 끌어안았다.",
+            "ruby": "",
+            "trans": "傘を用意していなかったソヨンは、トレンチコートの襟を合わせるのをやめてバッグを抱きしめた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그 안에는 할머니의 회중시계가 들어 있었다.",
+            "ruby": "",
+            "trans": "その中には祖母の懐中時計が入っていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "낮에 찾아간 40년 된 시계방의 노인은 돋보기를 내려놓으며 고개를 저었었다.",
+            "ruby": "",
+            "trans": "昼に訪ねた40年続く時計屋のお年寄りは、老眼鏡を置いて首を横に振っていたのだった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“고장 난 데는 하나도 없어요.",
+            "ruby": "",
+            "trans": "『壊れているところはひとつもありません。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 도무지 가질 않네.",
+            "ruby": "",
+            "trans": "なのに、どうしても動かないんだ。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "뒤 뚜껑도 용접이라도 한 것처럼 꿈쩍을 안 하고.”",
+            "ruby": "",
+            "trans": "裏蓋も溶接でもしたみたいにびくともしないし。』",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "출퇴근길에 수없이 지나다닌 골목이건만, 그날따라 막다른 끝에 낯선 불빛이 아른거렸다.",
+            "ruby": "",
+            "trans": "通勤路として何度も通り過ぎた路地だったが、その日に限って行き止まりの奥に見慣れない明かりがゆらめいていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "빛바랜 나무 간판에는 〈勿忘書林〉, 물망서림이라는 글자가 희미하게 남아 있었다.",
+            "ruby": "",
+            "trans": "色あせた木の看板には〈勿忘書林〉、勿忘書林（ムルマンソリム）という文字がかすかに残っていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "잊지 말라는 뜻을 담은, 요즘은 보기 드문 옛 서점 이름이었다.",
+            "ruby": "",
+            "trans": "忘れるなという意味を込めた、最近では珍しい昔の書店名だった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이런 곳이 있었을 리가 없는데, 이상하게도 낯설지가 않았다.",
+            "ruby": "",
+            "trans": "こんな場所があったはずがないのに、不思議と見覚えがないわけではなかった。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "딸랑, 문에 달린 종이 맑게 울렸다.",
+            "ruby": "",
+            "trans": "カランと、扉についた鈴が清らかに鳴った。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“늦은 시간에 죄송합니다.",
+            "ruby": "",
+            "trans": "『遅い時間にすみません。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "비가 그칠 때까지만 잠시 들어가도 될까요?”",
+            "ruby": "",
+            "trans": "雨がやむまで、少しの間だけ入ってもよろしいでしょうか？』",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "계산대 너머에서 책을 읽던 남자가 고개를 들었다.",
+            "ruby": "",
+            "trans": "レジの向こうで本を読んでいた男性が顔を上げた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "베이지색 니트 가디건에 은테 안경을 쓴 남자였다.",
+            "ruby": "",
+            "trans": "ベージュ色のニットカーディガンに銀フレームの眼鏡をかけた男性だった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그는 읽던 페이지에 손가락을 끼운 채 책을 덮으며 옅게 웃었다.",
+            "ruby": "",
+            "trans": "彼は読んでいたページに指を挟んだまま本を閉じ、薄く微笑んだ。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“그럼요, 들어오세요.",
+            "ruby": "",
+            "trans": "『もちろんです、どうぞお入りください。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "이 시간에 손님이 오신 건 꽤 오랜만이네요.”",
+            "ruby": "",
+            "trans": "この時間に客が来られたのはかなり久しぶりですね。』",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "마치 손님을 맞는 시간이 따로 정해져 있다는 듯한 말투였다.",
+            "ruby": "",
+            "trans": "まるで客を迎える時間が別に決まっているかのような話し方だった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그는 자신을 이 책방의 주인, 한도윤이라고 소개했다.",
+            "ruby": "",
+            "trans": "彼は自分をこの本屋의店主、ハン・ドユンだと紹介した。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 마른 수건과 함께 김이 피어오르는 유자차를 내밀었다.",
+            "ruby": "",
+            "trans": "ドユンは乾いたタオルとともに湯気が立ち上るゆず茶を差し出した。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "찻잔을 감싸 쥐자 얼어붙은 손끝으로 온기가 번졌다.",
+            "ruby": "",
+            "trans": "湯飲みを包み込むように握ると、凍りついた指先に温もりが広がった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“이렇게 늦게까지 문을 여시나 봐요.”",
+            "ruby": "",
+            "trans": "『こんなに遅くまで店を開けていらっしゃるんですね。』",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“잠이 좀처럼 오질 않아서요.",
+            "ruby": "",
+            "trans": "『なかなか眠りにつけなくて。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "어차피 깨어 있을 거라면, 책이라도 곁에 두는 편이 낫더라고요.”",
+            "ruby": "",
+            "trans": "どうせ起きているのなら、本でも傍に置いておく方がましですからね。』",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "담담한 대답과 달리, 안경 너머의 눈가에는 오래 쌓인 피로가 그늘처럼 내려앉아 있었다.",
+            "ruby": "",
+            "trans": "淡々とした返答とは裏腹に、眼鏡の奥の目元には長く積み重なった疲労が影のように落ちていた。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "수건을 꺼내려 가방을 뒤적이던 찰나, 무언가가 미끄러져 나와 마룻바닥에 둔탁하게 부딪쳤다.",
+            "ruby": "",
+            "trans": "タオルを取り出そうとバッグを探っていた瞬間、何かが滑り落ちてフローリングに鈍い音を立ててぶつかった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤이 허리를 숙여 그것을 주워 들었다.",
+            "ruby": "",
+            "trans": "ドユンが腰をかがめてそれを拾い上げた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "손때 묻은 황동 회중시계였다.",
+            "ruby": "",
+            "trans": "手垢のついた真鍮の懐中時計だった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "녹슨 바늘은 11시 59분에 붙박여 있었다.",
+            "ruby": "",
+            "trans": "錆びついた針は11時59分に固まっていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“할머니 유품이에요.",
+            "ruby": "",
+            "trans": "『祖母の遺品です。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "석 달 전에 돌아가셨는데, 평생 품에 지니고 다니셨대요.",
+            "ruby": "",
+            "trans": "3ヶ月前に亡くなったのですが、一生肌身離さず持ち歩いていたそうです。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런데 제가 기억하는 한, 이 시계는 단 한 번도 움직인 적이 없어요.”",
+            "ruby": "",
+            "trans": "でも私が覚えている限り、この時計は一度も動いたことがありません。』",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "시계를 돌려주던 도윤의 시선이 바늘 위에 잠시 머물렀다.",
+            "ruby": "",
+            "trans": "時計を返していたドユンの視線が針の上にしばし留まった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“11시 59분이라… 자정을 꼭 1분 앞둔 시각이네요.”",
+            "ruby": "",
+            "trans": "『11時59分か… 子刻（午前0時）をちょうど1分前に控えた時刻ですね。』",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그 말이 끝나기가 무섭게, 책방 안쪽의 괘종시계가 묵직하게 울리기 시작했다.",
+            "ruby": "",
+            "trans": "その言葉が終わるやいなや、本屋の奥の柱時計が重々しく鳴り響き始めた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "땡— 땡— 열두 번째 울림이 공기 속으로 스며드는 순간, 서연은 숨을 삼켰다.",
+            "ruby": "",
+            "trans": "ゴーン、ゴーン、12回目の響きが空気の中へ染み込む瞬間、ソヨンは息をのんだ。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "손바닥 위 회중시계의 유리 덮개 아래로 은은한 빛이 번지더니, 긴 잠에 빠져 있던 초침이 째깍, 다시 숨을 쉬기 시작한 것이다.",
+            "ruby": "",
+            "trans": "手のひらの上の懐中時計のガラスカバーの下からかすかな光が広がり、長い眠りに落ちていた秒針がカチッと、再び息をし始めたのだった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“말도 안 돼… 시계가, 움직여요.”",
+            "ruby": "",
+            "trans": "『まさか… 時計が、動いています。』",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "서연이 제 눈을 의심하는 사이, 도윤의 손끝이 시계에 닿았다.",
+            "ruby": "",
+            "trans": "ソヨンが自分の目を疑う間に、ドユンの指先が時計に触れた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "순간 그의 시야가 물결처럼 일렁이며 무너져 내렸다.",
+            "ruby": "",
+            "trans": "瞬間、彼の視野が波のようにゆらめき崩れ落ちた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "자욱한 증기와 기적 소리, 빗물에 잠긴 플랫폼.",
+            "ruby": "",
+            "trans": "立ち込める湯気と汽笛の音、雨水に浸かったホーム。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "돔 지붕 아래 걸린 간판에는 '京城驛(경성역)'이라는 글자가 선명했다.",
+            "ruby": "",
+            "trans": "ドーム屋根の下に掲げられた看板には『京城驛（キョンソン駅）』という文字が鮮明だった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "지금의 서울역이 백 년 전에 불리던 이름이었다.",
+            "ruby": "",
+            "trans": "現在のソウル駅が100年前に呼ばれていた名前だった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그곳에, 이 시계를 두 손으로 꼭 쥔 한 여인이 끝내 오지 않는 누군가를 기다리며 서 있었다.",
+            "ruby": "",
+            "trans": "そこに、この時計を両手で固く握りしめた一人の女性が、ついに来ない誰かを待ちながら立っていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "얼굴은 보이지 않았다.",
+            "ruby": "",
+            "trans": "顔は見えなかった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그러나 도윤은 그녀를 알고 있었다.",
+            "ruby": "",
+            "trans": "しかしドユンは彼女を知っていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "잠 못 드는 밤마다 꿈속에서 등을 돌린 채 서 있던, 바로 그 여인이었다.",
+            "ruby": "",
+            "trans": "眠れない夜ごとに夢の中で背を向けたまま立っていた、まさにその女性だった。",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "환영에서 빠져나온 도윤의 얼굴은 하얗게 질려 있었다.",
+            "ruby": "",
+            "trans": "幻影から抜け出したドユンの顔は蒼白になっていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "그런 그를 마주한 순간, 서연의 가슴 깊은 곳에서 이름 붙일 수 없는 그리움이 밀물처럼 차올랐다.",
+            "ruby": "",
+            "trans": "そんな彼と向き合った瞬間、ソヨンの胸の奥深くから名前のつけられない切なさと愛おしさが引き潮のように押し寄せて満ちた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "빗소리, 오래된 종이 냄새, 안경 너머의 저 눈빛까지.",
+            "ruby": "",
+            "trans": "雨音、古い紙の匂い、眼鏡の奥のあのまなざしまで。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "언젠가 꼭 한 번 겪었던 장면 같았다.",
+            "ruby": "",
+            "trans": "いつかきっと一度経験した場面のようだった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“이상하죠.",
+            "ruby": "",
+            "trans": "『不思議ですね。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "처음 뵙는 분인데… 우리, 전에 어디서 만난 적 있지 않나요?”",
+            "ruby": "",
+            "trans": "初めてお会いする方なのに… 私たち、以前どこかでお会いしたことはありませんか？』",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "도윤은 끝내 대답하지 못했다.",
+            "ruby": "",
+            "trans": "ドユンはついに答えることができなかった。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "대신 딸깍, 하는 작은 소리와 함께 꿈쩍도 않던 뒤 뚜껑이 저절로 열렸다.",
+            "ruby": "",
+            "trans": "代わりにカチッと小さな音とともに、びくともしなかった裏蓋がひとりでに開いた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "닳아 희미해진 안쪽 면에는 단정한 필체가 새겨져 있었다.",
+            "ruby": "",
+            "trans": "すり減ってかすれた内側には端正な筆跡が刻まれていた。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "“자정에 다시 만나요.",
+            "ruby": "",
+            "trans": "『午前0時にまた会いましょう。",
+            "paraEnd": false,
+            "start": 0,
+            "end": 0
+          },
+          {
+            "ko": "1925.”",
+            "ruby": "",
+            "trans": "1925。』",
+            "paraEnd": true,
+            "start": 0,
+            "end": 0
+          }
+        ],
+        "vocabDict": {
+          "회중시계": {
+            "word": "회중시계",
+            "pron": "hoejungsigye",
+            "pos": "명사 (名詞)",
+            "meaning": "懐中時計",
+            "example": "할머니의 회중시계는 오래되었지만 잘 돌아간다.",
+            "exampleTrans": "祖母の懐중時計は古いがしっかり動く。"
+          },
+          "돋보기": {
+            "word": "돋보기",
+            "pron": "dotbogi",
+            "pos": "명사 (名詞)",
+            "meaning": "老眼鏡、虫眼鏡",
+            "example": "할아버지는 돋보기를 쓰고 신문을 읽으신다.",
+            "exampleTrans": "祖父は老眼鏡をかけて新聞をお読みになる。"
+          },
+          "괘종시계": {
+            "word": "괘종시계",
+            "pron": "gwaejong-sigye",
+            "pos": "명사 (名詞)",
+            "meaning": "柱時計、振り子時計",
+            "example": "오래된 괘종시계가 자정을 알리며 12번 울렸다.",
+            "exampleTrans": "古い柱時計が午前0時を告げて12回鳴った。"
+          },
+          "유품": {
+            "word": "유품",
+            "pron": "yupum",
+            "pos": "명사 (名詞)",
+            "meaning": "遺品",
+            "example": "그 상자 안에는 할머니의 유품이 들어 있었다.",
+            "exampleTrans": "その箱の中には祖母の遺品が入っていた。"
+          },
+          "환영": {
+            "word": "환영",
+            "pron": "hwanyeong",
+            "pos": "명사 (名詞)",
+            "meaning": "幻影、まぼろし",
+            "example": "마치 과거의 환영을 본 것처럼 소름이 돋았다.",
+            "exampleTrans": "まるで過去の幻影を見たかのように鳥肌が立った。"
+          },
+          "밀물": {
+            "word": "밀물",
+            "pron": "milmul",
+            "pos": "명사 (名詞)",
+            "meaning": "上げ潮、満ち潮（比喩的に押し寄せる感情など）",
+            "example": "그리움이 밀물처럼 가슴속으로 몰려왔다.",
+            "exampleTrans": "愛おしさが満ち潮のように胸の中に押し寄せてきた。"
+          }
+        },
+        "expressions": [
+          {
+            "ko": "-기가 무섭게",
+            "pron": "-giga museopge",
+            "meaning": "～するやいなや、～するとすぐに。ある動作が終わると同時に次の出来事が連続して起こることを表す高級文法表現。",
+            "examples": [
+              {
+                "ko": "수업이 끝나기가 무섭게 학생들이 교실을 나갔다.",
+                "trans": "授業が終わるやいなや、生徒たちが教室を出て行った。"
+              },
+              {
+                "ko": "그 말이 끝나기가 무섭게 전화벨이 울렸다.",
+                "trans": "その言葉が終わるやいなや、電話のベルが鳴った。"
+              }
+            ]
+          },
+          {
+            "ko": "-다 말고",
+            "pron": "-da malgo",
+            "meaning": "～するのを途中でやめて、～しかけて。行っていた動作を突然中断して別の行動をする際に用いる。",
+            "examples": [
+              {
+                "ko": "밥을 먹다 말고 밖으로 나갔다.",
+                "trans": "ご飯を食べかけて途中でやめ、外へ出て行った。"
+              },
+              {
+                "ko": "옷을 여미다 말고 가방부터 챙겼다.",
+                "trans": "服の襟を合わせるのをやめてバッグから取りまとめた。"
+              }
+            ]
+          }
+        ],
+        "roleplay": {
+          "situation": "雨の夜に偶然入った古書店『勿忘書林』で、初対面のはずの店主ハン・ドユンに不思議な既視感を覚えて語りかける場面です。",
+          "ko": "이상하죠. 처음 뵙는 분인데… 우리, 전에 어디서 만난 적 있지 않나요?",
+          "pron": "Isanghajyo. Cheoeum boepneun bun-inde... uri, jeone eodiseo mannan jeok itji annayo?"
+        },
+        "quiz": [
+          {
+            "question": "서연이 밤 늦게 '물망서림'이라는 책방에 들어가게 된 직접적인 계기는 무엇입니까?",
+            "options": [
+              "책을 구매하기 위해",
+              "예보에 없던 비를 피하기 위해",
+              "도윤과 약속을 했기 때문에",
+              "회중시계를 수리하기 위해"
+            ],
+            "answer": 1,
+            "explanation": "서연은 늦은 밤 예보에도 없던 비가 쏟아지자, 비를 잠시 피하기 위해 눈에 띈 '물망서림' 서점으로 들어갔습니다."
+          },
+          {
+            "question": "회중시계의 뒤 뚜껑이 저절로 열린 후, 그 안쪽에 새겨져 있던 문구와 연도는 무엇입니까?",
+            "options": [
+              "'다시 만나요. 1910'",
+              "'자정에 다시 만나요. 1925'",
+              "'영원히 기억해요. 1945'",
+              "'잊지 말아요. 1925'"
+            ],
+            "answer": 1,
+            "explanation": "시계의 닳아 희미해진 안쪽 면에는 '자정에 다시 만나요. 1925.'라는 문구가 단정한 필체로 새겨져 있었습니다."
+          },
+          {
+            "question": "'그 말이 끝나기가 무섭게'에서 '-기가 무섭게'의 의미로 가장 적절한 것은 무엇입니까?",
+            "options": [
+              "무서운 마음이 들어서",
+              "～するやいなや（直ちに）",
+              "～するまで待って",
+              "～することができなくて"
+            ],
+            "answer": 1,
+            "explanation": "'-기가 무섭게'는 어떤 행동이나 말이 끝나자마자 곧바로 다음 행동/상황이 이어짐を意味する表現です。"
+          },
+          {
+            "question": "본문에 등장한 단어 '유품(遺品)'의 의미로 올바른 것은 무엇입니까?",
+            "options": [
+              "세상을 떠난 사람이 남긴 물건",
+              "새로 구입한 선물",
+              "박물관에 전시된 국보",
+              "오래되어 버려진 물건"
+            ],
+            "answer": 0,
+            "explanation": "'유품(遺品)'은 故人（亡くなった人）が残した所持品や品物を指します。"
+          }
+        ],
+        "audioUrl": ""
+      }
+    },
+    "ep": 1,
+    "status": "Published",
+    "shortsId": ""
+  }
+]
