@@ -615,6 +615,7 @@
       <p id="ui-subtitle">Daily Korean Web Novel & Micro-Learning</p>
     </div>
     <select id="lang-switcher" class="lang-select" onchange="changeLanguage(this.value)" aria-label="Language">
+      <option value="ko">🇰🇷 한국어</option>
       <option value="en">🇺🇸 English</option>
       <option value="vi">🇻🇳 Tiếng Việt</option>
       <option value="th">🇹🇭 ภาษาไทย</option>
@@ -654,6 +655,34 @@
 <script>
   // ==================== 1. 다국어 UI 인터페이스 사전 ====================
   const UI_STRINGS = {
+    ko: {
+      subtitle: "매일 밤 만나는 한국어 판타지 웹소설",
+      epUnit: "화",
+      beg: "🟢 초급",
+      int: "🟡 중급",
+      adv: "🔴 고급",
+      playAll: "▶ 전체 듣기",
+      stop: "■ 정지",
+      pronOn: "🔤 발음 표기: ON",
+      pronOff: "🔤 발음 표기: OFF",
+      transOn: "🌐 쉬운 풀이: ON",
+      transOff: "🌐 쉬운 풀이: OFF",
+      vocabHint: "💡 점선 밑줄이 있는 단어를 누르면 뜻과 예문이 나옵니다.",
+      exprTitle: "✨ 오늘의 핵심 표현 & 예문",
+      rpTitle: "🎙️ 1인칭 시점 롤플레이 스피킹",
+      rpRole: "내 차례 (서연 역)",
+      rpShowLine: "👀 대사 보기",
+      rpHideLine: "🙈 대사 숨기기",
+      rpListen: "🔊 원어민 음성",
+      rpRecord: "🎙️ 내 목소리 녹음",
+      rpStopRec: "⏹ 녹음 중지",
+      rpPlayMine: "▶️ 내 녹음 듣기",
+      quizTitle: "📝 에피소드 확인 퀴즈",
+      quizReset: "↻ 다시 풀기",
+      shortsTitle: "🎬 하이라이트 장면 보기 (AI Shorts)",
+      shortsPending: "퇴고 완료 후 AI 하이라이트 영상이 연결됩니다.",
+      micError: "브라우저에서 마이크 권한을 사용할 수 없습니다."
+    },
     en: {
       subtitle: "Daily Korean Web Novel & Micro-Learning",
       epUnit: "Ep.",
@@ -877,10 +906,10 @@ episodesData = isPreview ? all : all.filter(ep => ep.status === 'Published');
     const vocabDict = lvlData.vocabDict || {};
 
     // 회차 네비게이션
-    const navHtml = episodesData.map((item, idx) => {
-      const label = (currentLang === 'zh' || currentLang === 'ja')
-        ? `${t('epUnit')}${item.ep}话`
-        : `${t('epUnit')}${item.ep}`;
+   const navHtml = episodesData.map((item, idx) => {
+      let label = `${t('epUnit')}${item.ep}`;
+      if (currentLang === 'ko') label = `${item.ep}화`;
+      else if (currentLang === 'zh' || currentLang === 'ja') label = `${t('epUnit')}${item.ep}话`;
       return `<button class="ep-btn ${idx === currentEpIndex ? 'active' : ''}" onclick="selectEpisode(${idx})">${label}</button>`;
     }).join("");
 
